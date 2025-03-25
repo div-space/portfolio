@@ -59,6 +59,9 @@ bottomSections:
       - type: Label
         label: Sass 1.0
         url: ''
+      - type: Label
+        label: JIRA
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
