@@ -15,9 +15,13 @@ sections:
     backgroundSize: full
     title: Computer Engineering graduate with +4 years in Experience Design.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I enjoy solving problems and making things easy and fun for users. My
+      natural curiosity and "listen to learn" mindset shapes how I work and
+      interact with others.I am committed to crafting engaging, accessible
+      digital experiences where each element is naturally intuitive. I thrive in
+      collaborative environments, leading teams to deliver high-impact
+      projects.When I'm not designing, you'll find me reading, playing football,
+      or sketching - activities that inspire my creativity and keep me balanced.
     styles:
       self:
         height: auto
