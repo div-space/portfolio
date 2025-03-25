@@ -7,9 +7,8 @@ client: >-
   Visual Design | User Research | Information Architecture | Usability Testing |
   Service Design 
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  It’s a personalize AI tutoring helping studetns learn, practice and understand
+  math at their own pace and aiding teacher in their classrooms.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
