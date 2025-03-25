@@ -11,7 +11,7 @@ description: >-
   understand math at their own pace and aiding teachers in their classrooms.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/bg1 1.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
