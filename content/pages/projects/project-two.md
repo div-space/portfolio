@@ -53,6 +53,9 @@ bottomSections:
       - type: Label
         label: PostgreSQL
         url: ''
+      - type: Label
+        label: LogRocket
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
