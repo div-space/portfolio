@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 100
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-a
     backgroundSize: full
     title: Computer Engineering graduate with +4 years in Experience Design.
     subtitle: >-
