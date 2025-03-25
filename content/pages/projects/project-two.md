@@ -13,6 +13,7 @@ featuredImage:
   type: ImageBlock
   url: /images/bg1 1.png
   altText: Project thumbnail image
+  caption: prepbox tutoring
 media:
   type: ImageBlock
   url: /images/bg2.jpg
