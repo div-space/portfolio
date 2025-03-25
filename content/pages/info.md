@@ -171,7 +171,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: LabelsSection
-    colors: colors-f
+    colors: colors-d
     subtitle: 'Skills:'
     items:
       - type: Label
