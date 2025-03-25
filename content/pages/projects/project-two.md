@@ -56,6 +56,9 @@ bottomSections:
       - type: Label
         label: LogRocket
         url: ''
+      - type: Label
+        label: Sass 1.0
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
