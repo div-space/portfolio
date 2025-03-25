@@ -54,7 +54,7 @@ sections:
     text: |
       Toronto, ON
   - type: MediaGallerySection
-    title: Gallery
+    title: I worked with these
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
