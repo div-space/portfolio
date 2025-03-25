@@ -16,7 +16,7 @@ featuredImage:
   caption: prepbox tutoring
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Frame prep.png
   altText: Project image
 bottomSections:
   - type: LabelsSection
