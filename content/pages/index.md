@@ -52,7 +52,7 @@ sections:
         elementId: ''
       - type: Button
         label: Find my resume here
-        altText: ''
+        altText: resume download
         url: >-
           /https://drive.google.com/drive/u/1/folders/1vrNy7zwwwzAoV2YtyUndKubhkFSxQo0X
         showIcon: false
