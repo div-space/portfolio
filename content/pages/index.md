@@ -56,7 +56,7 @@ sections:
         url: >-
           /https://drive.google.com/drive/u/1/folders/1vrNy7zwwwzAoV2YtyUndKubhkFSxQo0X
         showIcon: true
-        icon: ''
+        icon: arrowLeft
         iconPosition: right
         style: primary
         elementId: ''
