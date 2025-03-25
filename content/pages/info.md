@@ -56,7 +56,7 @@ sections:
       - type: Label
         label: Usability Testing
       - type: Label
-        label: Next.js
+        label: User Research
       - type: Label
         label: Netlify
       - type: Label
