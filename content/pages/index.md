@@ -40,7 +40,16 @@ sections:
         borderColor: border-(--theme-secondary)
         borderStyle: solid
     type: HeroSection
-    actions: []
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: /Find my resume here
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     text: |
       Toronto, ON
   - type: MediaGallerySection
