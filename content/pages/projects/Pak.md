@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: PrepBox Math Learning Platform
+title: Pak 2
 date: '2024-11-01'
 client: >-
   Visual Design | User Research | Information Architecture | Usability Testing |
