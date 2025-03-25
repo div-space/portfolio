@@ -60,7 +60,7 @@ sections:
       - type: ImageBlock
         url: /images/logo1.svg
         altText: logo one
-        caption: Adobe Creative Cloud
+        caption: Adobe Creative Suite
         elementId: ''
       - type: ImageBlock
         url: /images/logo2.svg
