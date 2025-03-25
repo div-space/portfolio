@@ -47,6 +47,9 @@ bottomSections:
       - type: Label
         label: MS Office
         url: ''
+      - type: Label
+        label: PostgreSQL
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
