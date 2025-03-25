@@ -3,7 +3,7 @@ type: ProjectLayout
 title: PrepBox Math Learning Platform
 colors: colors-a
 date: '2024-11-01'
-client: Awesome client
+client: Product Designer
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
   because I worked with an entire team :) but they definitely followed my lead
