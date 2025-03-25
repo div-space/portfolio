@@ -34,7 +34,7 @@
             },
             {
                 "type": "Social",
-                "altText": "GitHub",
+                "altText": "Behance",
                 "label": "Behance",
                 "url": "https://github.com/netlify-templates",
                 "icon": "github"
