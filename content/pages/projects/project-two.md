@@ -4,8 +4,8 @@ title: PrepBox Math Learning Platform
 colors: colors-a
 date: '2024-11-01'
 client: >-
-  Visual Design | User Research | Information Archicture | Usabelity Testion |
-  Service Desgn 
+  Visual Design | User Research | Information Architecture | Usability Testing |
+  Service Design 
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
   because I worked with an entire team :) but they definitely followed my lead
