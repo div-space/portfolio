@@ -60,8 +60,6 @@ sections:
       - type: Label
         label: Service Design
       - type: Label
-        label: Pancakes
-      - type: Label
         label: C++
       - type: Label
         label: Swift
