@@ -42,7 +42,7 @@ bottomSections:
         label: GitHub
         url: ''
       - type: Label
-        label: C++
+        label: Ruby on Rails
         url: ''
       - type: Label
         label: Swift
