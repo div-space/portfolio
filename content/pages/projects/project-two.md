@@ -20,7 +20,7 @@ media:
   altText: Project image
 bottomSections:
   - type: LabelsSection
-    title: Skills
+    title: Tech Litracy
     subtitle: The section subtitle
     items:
       - type: Label
