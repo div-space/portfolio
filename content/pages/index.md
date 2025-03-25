@@ -41,15 +41,6 @@ sections:
         borderStyle: solid
     type: HeroSection
     actions:
-      - type: Link
-        label: Find my resume here
-        altText: resume
-        url: >-
-          /https://drive.google.com/drive/u/1/folders/1vrNy7zwwwzAoV2YtyUndKubhkFSxQo0X
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
       - type: Button
         label: Find my resume here
         altText: resume download
@@ -59,6 +50,15 @@ sections:
         icon: ''
         iconPosition: right
         style: primary
+        elementId: ''
+      - type: Link
+        label: Find my resume here
+        altText: resume
+        url: >-
+          /https://drive.google.com/drive/u/1/folders/1vrNy7zwwwzAoV2YtyUndKubhkFSxQo0X
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
         elementId: ''
     text: |
       Toronto, ON
