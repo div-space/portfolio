@@ -54,7 +54,7 @@ sections:
       - type: Label
         label: Information Architecture
       - type: Label
-        label: Microsoft Office
+        label: Usability Testing
       - type: Label
         label: Next.js
       - type: Label
