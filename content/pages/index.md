@@ -43,7 +43,7 @@ sections:
     actions:
       - type: Link
         label: Find my resume here
-        altText: ''
+        altText: resume
         url: >-
           /https://drive.google.com/drive/u/1/folders/1vrNy7zwwwzAoV2YtyUndKubhkFSxQo0X
         showIcon: false
