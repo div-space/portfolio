@@ -59,8 +59,6 @@ sections:
         label: User Research
       - type: Label
         label: Service Design
-      - type: Label
-        label: Swift
   - type: MediaGallerySection
     colors: colors-f
     subtitle: 'I worked with these folks:'
