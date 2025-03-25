@@ -55,7 +55,7 @@ sections:
         altText: resume download
         url: >-
           /https://drive.google.com/drive/u/1/folders/1vrNy7zwwwzAoV2YtyUndKubhkFSxQo0X
-        showIcon: true
+        showIcon: false
         icon: ''
         iconPosition: right
         style: primary
