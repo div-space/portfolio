@@ -50,7 +50,7 @@ sections:
     subtitle: Core skills
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Visual Design
       - type: Label
         label: React
       - type: Label
