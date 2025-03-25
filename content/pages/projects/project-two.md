@@ -7,8 +7,8 @@ client: >-
   Visual Design | User Research | Information Architecture | Usability Testing |
   Service Design 
 description: >-
-  It’s a personalize AI tutoring helping studetns learn, practice and understand
-  math at their own pace and aiding teacher in their classrooms.
+  It’s a personalized AI tutoring helping students learn, practice, and
+  understand math at their own pace and aiding teachers in their classrooms.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
