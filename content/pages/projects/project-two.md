@@ -36,6 +36,9 @@ bottomSections:
         label: React Native
         url: ''
       - type: Label
+        label: Redux
+        url: ''
+      - type: Label
         label: GitHub
         url: ''
       - type: Label
@@ -49,9 +52,6 @@ bottomSections:
         url: ''
       - type: Label
         label: PostgreSQL
-        url: ''
-      - type: Label
-        label: Redux
         url: ''
     colors: colors-f
     elementId: ''
