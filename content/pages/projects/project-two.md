@@ -30,7 +30,7 @@ bottomSections:
         label: HTML5/CSS3
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: MS Office
         url: ''
       - type: Label
         label: Next.js
