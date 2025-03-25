@@ -30,9 +30,6 @@ bottomSections:
         label: HTML5/CSS3
         url: ''
       - type: Label
-        label: MS Office
-        url: ''
-      - type: Label
         label: LaTeX
         url: ''
       - type: Label
@@ -46,6 +43,9 @@ bottomSections:
         url: ''
       - type: Label
         label: JavaScript
+        url: ''
+      - type: Label
+        label: MS Office
         url: ''
     colors: colors-f
     elementId: ''
