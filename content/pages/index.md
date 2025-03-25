@@ -58,7 +58,7 @@ sections:
         showIcon: false
         icon: ''
         iconPosition: right
-        style: primary
+        style: secondary
         elementId: ''
     text: |
       Toronto, ON
