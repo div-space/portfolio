@@ -70,7 +70,7 @@ sections:
       - type: ImageBlock
         url: /images/logo3.svg
         altText: logo three
-        caption: Balsamiq
+        caption: Miro
         elementId: ''
       - type: ImageBlock
         url: /images/logo4.svg
