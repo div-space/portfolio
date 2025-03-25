@@ -27,7 +27,7 @@ bottomSections:
         label: iOS
         url: ''
       - type: Label
-        label: React
+        label: Android
         url: ''
       - type: Label
         label: Microsoft Office
