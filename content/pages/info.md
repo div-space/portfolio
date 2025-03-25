@@ -13,12 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
-
+    text: "I enjoy mapping user journey, creating websites and apps that look good and deliver measurable results. Proven ability to drive product strategy, enhance user experiences, and lead cross-functional teams. \_Proficient in\_Agile methodologies and design thinking, with a strong focus on integrating AI and optimizing processes.\n\n\n\n\n\n\n\n\n\n\n"
     media:
       type: ImageBlock
       url: /images/IMG-20230605-WA0020~2.jpg
