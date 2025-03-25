@@ -36,7 +36,7 @@ bottomSections:
         label: LaTeX
         url: ''
       - type: Label
-        label: Netlify
+        label: React Native
         url: ''
       - type: Label
         label: Pancakes
