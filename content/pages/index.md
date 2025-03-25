@@ -42,7 +42,7 @@ sections:
     type: HeroSection
     actions:
       - type: Link
-        label: Learn more
+        label: Find my resume here
         altText: ''
         url: >-
           /https://drive.google.com/drive/u/1/folders/1vrNy7zwwwzAoV2YtyUndKubhkFSxQo0X
