@@ -16,14 +16,11 @@ sections:
     title: Computer Engineering graduate with +4 years in Experience Design.
     subtitle: >-
       I grew up in the white desert of kutch, surrounded by nature’s raw beauty
-      and the rich tapestry of culture, craftsmanship, and storytelling. I enjoy
-      solving problems and making things easy and fun for users. My natural
-      curiosity and "listen to learn" mindset shapes how I work and interact
-      with others.I am committed to crafting engaging, accessible digital
-      experiences where each element is naturally intuitive. I thrive in
-      collaborative environments, leading teams to deliver high-impact
-      projects.When I'm not designing, you'll find me reading, playing football,
-      or sketching - activities that inspire my creativity and keep me balanced.
+      and the rich tapestry of culture, craftsmanship, and storytelling. I
+      collaborate with problem solvers, utilizing various design disciplines
+      with the ability to adapt to roles. When I'm not designing, you'll find me
+      reading, playing football, or sketching - activities that inspire my
+      creativity and keep me balanced.
     styles:
       self:
         height: auto
