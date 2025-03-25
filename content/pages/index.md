@@ -50,6 +50,16 @@ sections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: >-
+          /https://drive.google.com/drive/u/1/folders/1vrNy7zwwwzAoV2YtyUndKubhkFSxQo0X
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     text: |
       Toronto, ON
   - type: MediaGallerySection
