@@ -39,6 +39,9 @@ sections:
         textAlign: left
     type: HeroSection
     actions: []
+    text: >
+      My natural curiosity and "listen to learn" mindset shapes how I work and
+      interact with others.
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
