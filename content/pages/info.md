@@ -52,7 +52,7 @@ sections:
       - type: Label
         label: Visual Design
       - type: Label
-        label: React
+        label: Information Architecture
       - type: Label
         label: Microsoft Office
       - type: Label
