@@ -54,7 +54,7 @@ sections:
     text: |
       Toronto, ON
   - type: MediaGallerySection
-    title: I worked with these
+    title: ''
     subtitle: ''
     images:
       - type: ImageBlock
