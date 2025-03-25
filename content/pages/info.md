@@ -58,7 +58,7 @@ sections:
       - type: Label
         label: User Research
       - type: Label
-        label: Netlify
+        label: Service Design
       - type: Label
         label: Pancakes
       - type: Label
