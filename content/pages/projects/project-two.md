@@ -50,6 +50,9 @@ bottomSections:
       - type: Label
         label: PostgreSQL
         url: ''
+      - type: Label
+        label: Redux
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
