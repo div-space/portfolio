@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Pak 2
-date: '2024-11-01'
+date: '2025-03-25'
 client: >-
   Visual Design | User Research | Information Architecture | Usability Testing |
   Service Design 
