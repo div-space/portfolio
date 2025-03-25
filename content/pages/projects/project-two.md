@@ -33,7 +33,7 @@ bottomSections:
         label: MS Office
         url: ''
       - type: Label
-        label: Next.js
+        label: LaTeX
         url: ''
       - type: Label
         label: Netlify
