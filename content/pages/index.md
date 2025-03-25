@@ -55,7 +55,7 @@ sections:
       Toronto, ON
   - type: MediaGallerySection
     title: I worked with these
-    subtitle: This is the subtitle
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/logo1.svg
