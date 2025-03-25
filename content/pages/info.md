@@ -47,7 +47,7 @@ sections:
         borderStyle: solid
   - type: LabelsSection
     colors: colors-b
-    subtitle: 'Skills:'
+    subtitle: Core skills
     items:
       - type: Label
         label: 'WEB 1, 2, 3'
