@@ -39,7 +39,7 @@ bottomSections:
         label: React Native
         url: ''
       - type: Label
-        label: Pancakes
+        label: GitHub
         url: ''
       - type: Label
         label: C++
