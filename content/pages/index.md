@@ -41,15 +41,6 @@ sections:
         borderStyle: solid
     type: HeroSection
     actions:
-      - type: Button
-        label: Learn more
-        altText: ''
-        url: /Find my resume here
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
       - type: Link
         label: Learn more
         altText: ''
