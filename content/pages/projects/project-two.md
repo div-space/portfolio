@@ -60,7 +60,7 @@ bottomSections:
         label: Sass 1.0
         url: ''
       - type: Label
-        label: JIRA
+        label: Jira
         url: ''
     colors: colors-f
     elementId: ''
