@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: "# I enjoy mapping user journey, creating websites and apps that look good and deliver measurable results. Proficient in\_Agile methodologies and design thinking, with a strong focus on integrating AI and optimizing processes.\n\n"
+    text: "# I enjoy mapping user journey, creating websites and apps that look good and deliver measurable results. Proficient in\_Lean and Agile methodologies to create impactful digital solutions.\n\n\n\n\n"
     media:
       type: ImageBlock
       url: /images/IMG-20230605-WA0020~2.jpg
