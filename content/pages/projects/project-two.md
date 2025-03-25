@@ -77,6 +77,8 @@ bottomSections:
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iC3cNlXBVZk?si=aQVshpQPR8qu41SP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+![](https://pbs.twimg.com/profile_banners/22151743/1453578438/1500x500)
+
 > It was the beginning of social distancing, with +200K active users the Online and In-Class Math Tutoring company was working on ways to optimize learning while standing out from the likes of Chegg, Khan Academy, Kumon, and other learning platforms.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
