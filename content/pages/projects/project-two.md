@@ -45,7 +45,7 @@ bottomSections:
         label: Ruby on Rails
         url: ''
       - type: Label
-        label: Swift
+        label: JavaScript
         url: ''
     colors: colors-f
     elementId: ''
