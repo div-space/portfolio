@@ -60,8 +60,6 @@ sections:
       - type: Label
         label: Service Design
       - type: Label
-        label: C++
-      - type: Label
         label: Swift
   - type: MediaGallerySection
     colors: colors-f
