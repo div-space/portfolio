@@ -106,7 +106,7 @@ sections:
       - type: Link
         label: See all projects
         url: /projects
-    showDate: true
+    showDate: false
     showDescription: true
     showFeaturedImage: true
     showReadMoreLink: true
