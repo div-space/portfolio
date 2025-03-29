@@ -58,7 +58,7 @@
             {
                 "type": "Link",
                 "label": "work",
-                "url": "https://github.com/netlify-templates",
+                "url": "/projects",
                 "altText": "projects"
             },
             {
