@@ -4,11 +4,11 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/34_1750.png
+  url: /images/bg2.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 92
+  opacity: 100
 sections:
   - elementId: ''
     colors: colors-f
