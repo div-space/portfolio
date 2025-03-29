@@ -117,7 +117,7 @@ sections:
     variant: variant-c
     elementId: ''
     showDate: false
-    showDescription: true
+    showDescription: false
     showFeaturedImage: true
     showReadMoreLink: true
     styles:
