@@ -138,7 +138,7 @@ sections:
       - content/pages/projects/project-two.md
       - content/pages/projects/Pak.md
     colors: colors-f
-    variant: variant-d
+    variant: variant-a
     elementId: ''
     showDate: false
     showDescription: false
