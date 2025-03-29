@@ -137,7 +137,7 @@ sections:
       - content/pages/projects/project-one.md
       - content/pages/projects/project-two.md
     colors: colors-f
-    variant: variant-d
+    variant: variant-b
     elementId: ''
     showDate: false
     showDescription: false
