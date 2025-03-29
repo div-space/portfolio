@@ -131,7 +131,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: center
-        borderRadius: small
+        borderRadius: none
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
