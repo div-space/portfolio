@@ -131,7 +131,7 @@ sections:
         url: /projects
         showIcon: true
         icon: arrowRight
-        iconPosition: right
+        iconPosition: left
         elementId: ''
     projects:
       - content/pages/projects/project-one.md
