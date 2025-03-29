@@ -129,7 +129,7 @@ sections:
         label: See all projects
         altText: See all projects
         url: /projects
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         elementId: ''
