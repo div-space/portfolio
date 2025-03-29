@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: PrepBox Math Learning Platform
-colors: colors-c
+colors: colors-d
 date: '2024-11-01'
 client: >-
   Visual Design | User Research | Information Architecture | Usability Testing |
