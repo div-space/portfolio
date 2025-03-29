@@ -159,7 +159,7 @@ sections:
     colors: colors-f
     variant: variant-d
     subtitle: Featured Posts
-    showFeaturedImage: false
+    showFeaturedImage: true
     actions:
       - type: Link
         label: See all posts
