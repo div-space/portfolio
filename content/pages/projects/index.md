@@ -7,7 +7,7 @@ backgroundImage:
   url: /images/unnamed.png
   backgroundSize: cover
   backgroundPosition: center
-  backgroundRepeat: no-repeat
+  backgroundRepeat: repeat-x
   opacity: 100
 projectFeed:
   type: ProjectFeedSection
