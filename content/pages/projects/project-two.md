@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: PrepBox Math Learning Platform
+title: Math Learning Platform
 colors: colors-a
 date: '2024-11-01'
 client: >-
