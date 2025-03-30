@@ -46,7 +46,7 @@ sections:
       - type: ImageBlock
         url: /images/Frame 3862.png
         altText: altText of the image
-        caption: Caption of the image
+        caption: Human-Centered Problem Solving
         elementId: ''
       - type: ImageBlock
         url: /images/Frame 3863.png
