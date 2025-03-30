@@ -121,7 +121,7 @@ sections:
     showDate: true
     showAuthor: false
     showExcerpt: true
-    showFeaturedImage: true
+    showFeaturedImage: false
     showReadMoreLink: true
     styles:
       self:
