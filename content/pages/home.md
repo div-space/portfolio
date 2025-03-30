@@ -99,7 +99,7 @@ sections:
     showDate: false
     showDescription: false
     showFeaturedImage: true
-    showReadMoreLink: false
+    showReadMoreLink: true
     styles:
       self:
         height: auto
