@@ -4,7 +4,7 @@ title: Home1
 sections:
   - type: TextSection
     title: Divyarajsinh Jhala
-    subtitle: The section subtitle
+    subtitle: Experience Design
     text: >-
       Start adding sections by clicking the + button on the page or through the
       sidebar.
