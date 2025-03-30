@@ -31,13 +31,6 @@
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/in/divyarajjhala/",
                 "icon": "linkedin"
-            },
-            {
-                "type": "Social",
-                "altText": "Behance",
-                "label": "Behance",
-                "url": "https://www.behance.net/divyarajsinhjhala",
-                "icon": "bluesky"
             }
         ],
         "styles": {
