@@ -171,10 +171,8 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: Gujarat Technological University
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |
+          B.E. Computer Engineering
         actions: []
         elementId: ''
         styles:
