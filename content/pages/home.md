@@ -160,7 +160,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: Conestoga College
+        subtitle: ''
         text: |
           ### Conestoga College
 
