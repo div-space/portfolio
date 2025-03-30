@@ -57,6 +57,7 @@ sections:
           - pr-4
         textAlign: center
         borderStyle: solid
+        borderWidth: 6
   - type: MediaGallerySection
     title: Gallery
     subtitle: This is the subtitle
