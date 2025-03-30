@@ -58,6 +58,7 @@ sections:
         textAlign: center
         borderStyle: dotted
         borderWidth: 4
+        borderRadius: large
   - type: MediaGallerySection
     title: Gallery
     subtitle: This is the subtitle
