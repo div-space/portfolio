@@ -48,12 +48,6 @@
                 "label": "work",
                 "url": "/projects",
                 "altText": "projects"
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
             }
         ],
         "contacts": {
