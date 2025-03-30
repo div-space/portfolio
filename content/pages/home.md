@@ -164,7 +164,7 @@ sections:
         text: |+
           P.G. Web Design & Development (graduated with distinction)
 
-          ###### 2020 - 2022
+          ##### 2020 - 2022
 
         actions: []
         elementId: ''
