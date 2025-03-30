@@ -56,7 +56,7 @@ sections:
       - type: ImageBlock
         url: /images/Frame 3864.png
         altText: AR
-        caption: Caption of the image
+        caption: AR UX & Interactive Experiences
         elementId: ''
     colors: colors-f
     spacing: 16
