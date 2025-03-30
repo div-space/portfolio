@@ -29,7 +29,7 @@ sections:
     subtitle: Badges
     images:
       - type: ImageBlock
-        url: /images/image (1) 1.png
+        url: /images/Frame 3860.png
         altText: google UX Design
         caption: User-Centered Design & Prototyping
         elementId: ''
