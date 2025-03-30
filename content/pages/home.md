@@ -157,7 +157,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Conestoga College
-        subtitle: ''
+        subtitle: Conestoga College
         text: |
           PG Web Design & Development
         actions: []
