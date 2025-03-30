@@ -175,6 +175,8 @@ sections:
         subtitle: Gujarat Technological University
         text: |
           B.E. Computer Engineering
+
+          2015 - 2018
         actions: []
         elementId: ''
         styles:
