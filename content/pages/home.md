@@ -62,7 +62,7 @@ sections:
     spacing: 16
     columns: 6
     aspectRatio: '16:9'
-    showCaption: true
+    showCaption: false
     enableHover: true
     elementId: ''
     styles:
