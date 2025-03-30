@@ -57,7 +57,7 @@ sections:
           - pr-4
         textAlign: center
         borderStyle: dotted
-        borderWidth: 4
+        borderWidth: 0
         borderRadius: large
   - type: MediaGallerySection
     title: Gallery
