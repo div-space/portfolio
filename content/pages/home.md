@@ -174,7 +174,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: ''
-        subtitle: Gujarat Technological University
+        subtitle: ''
         text: |
           ### Gujarat Technological University
 
