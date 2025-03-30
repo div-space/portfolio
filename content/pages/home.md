@@ -56,7 +56,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: center
-        borderStyle: solid
+        borderStyle: double
         borderWidth: 4
   - type: MediaGallerySection
     title: Gallery
