@@ -30,7 +30,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/image (1) 1.png
-        altText: altText of the image
+        altText: google UX Design
         caption: User-Centered Design & Prototyping
         elementId: ''
       - type: ImageBlock
