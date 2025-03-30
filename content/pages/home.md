@@ -34,7 +34,7 @@ sections:
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
-    colors: colors-f
+    colors: colors-b
     spacing: 16
     columns: 5
     aspectRatio: '16:9'
