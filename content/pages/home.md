@@ -12,7 +12,7 @@ sections:
       design, product design, and user research - *'Bridging Tech, Design, and
       Human Behavior'*.
     colors: colors-f
-    variant: variant-a
+    variant: variant-b
     elementId: ''
     styles:
       self:
