@@ -59,6 +59,7 @@ sections:
         borderStyle: none
         borderWidth: 0
         borderRadius: none
+        borderColor: border-(--theme-dark)
   - type: MediaGallerySection
     title: Gallery
     subtitle: This is the subtitle
