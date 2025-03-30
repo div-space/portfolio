@@ -29,11 +29,6 @@ sections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/logo4.svg
-        altText: logo four
-        caption: Caption of the image
-        elementId: ''
-      - type: ImageBlock
         url: >-
           https://assets.stackbit.com/components/images/default/default-image.png
         altText: altText of the image
