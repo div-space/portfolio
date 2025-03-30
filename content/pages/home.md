@@ -156,7 +156,12 @@ sections:
     title: Education
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: >-
+          # Conestoga College, Waterloo,
+          CA![](https://www-assets.conestogac.on.ca/images/corporate-website-2019/program-banners/1536.jpg)###
+          Core Subjects:- Responsive Site Design- Digital Design and User
+          Interaction- Database Design- Requirements Development- Project
+          Management- JavaScript Programming
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
