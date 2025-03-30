@@ -162,7 +162,7 @@ sections:
         title: ''
         subtitle: Conestoga College
         text: |
-          PG Web Design & Development
+          P.G. Web Design & Development
         actions: []
         elementId: ''
         styles:
