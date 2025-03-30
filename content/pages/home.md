@@ -132,7 +132,7 @@ sections:
           - pb-24
           - pl-4
           - pr-4
-        textAlign: center
+        textAlign: right
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
