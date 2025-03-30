@@ -34,6 +34,12 @@ sections:
         caption: User-Centered Design & Prototyping
         elementId: ''
       - type: ImageBlock
+        url: >-
+          https://assets.stackbit.com/components/images/default/default-image.png
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
+      - type: ImageBlock
         url: /images/Frame 3861.png
         altText: 'Adobe Visual Design '
         caption: Visual Communication & UI Design
