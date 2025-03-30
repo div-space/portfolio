@@ -49,15 +49,15 @@
             },
             {
                 "type": "Link",
-                "label": "About",
-                "url": "/info",
-                "altText": ""
-            },
-            {
-                "type": "Link",
                 "label": "work",
                 "url": "/projects",
                 "altText": "projects"
+            },
+            {
+                "type": "Link",
+                "label": "About",
+                "url": "/info",
+                "altText": ""
             }
         ],
         "contacts": {
