@@ -110,7 +110,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: center
-    title: Projects
+    title: ''
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
