@@ -31,7 +31,7 @@ sections:
       - type: ImageBlock
         url: /images/image (1) 1.png
         altText: altText of the image
-        caption: User-Centered Design & Prototyping
+        caption: ''
         elementId: ''
       - type: ImageBlock
         url: >-
