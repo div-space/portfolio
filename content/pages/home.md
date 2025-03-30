@@ -58,7 +58,7 @@ sections:
         textAlign: center
         borderStyle: none
         borderWidth: 0
-        borderRadius: large
+        borderRadius: none
   - type: MediaGallerySection
     title: Gallery
     subtitle: This is the subtitle
