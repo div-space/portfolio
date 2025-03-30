@@ -110,6 +110,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
+    title: 'Projects:'
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
