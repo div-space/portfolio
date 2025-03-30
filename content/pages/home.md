@@ -3,7 +3,7 @@ type: PageLayout
 title: Home1
 sections:
   - type: TextSection
-    title: This in an empty page
+    title: Divyarajsinh Jhala
     subtitle: The section subtitle
     text: >-
       Start adding sections by clicking the + button on the page or through the
