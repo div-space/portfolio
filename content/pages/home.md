@@ -98,7 +98,7 @@ sections:
     elementId: ''
     showDate: false
     showDescription: false
-    showFeaturedImage: true
+    showFeaturedImage: false
     showReadMoreLink: true
     styles:
       self:
