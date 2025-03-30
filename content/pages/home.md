@@ -9,13 +9,10 @@ sections:
       I collaborate with problem solvers, blending design disciplines with
       adaptability across roles. As an experience designer from India with a
       computer science background from GTU and LAU, I specialize in UX/UI
-      design, product design, and user research - *'Bridging Tech, Design, and
-      Human Behavior'*.
+      design, product design, and user research.
 
 
       > 'Bridging Tech, Design, and Human Behavior'.
-
-
 
     colors: colors-f
     variant: variant-a
