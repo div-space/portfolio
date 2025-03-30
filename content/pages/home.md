@@ -42,7 +42,7 @@ sections:
     spacing: 16
     columns: 5
     aspectRatio: auto
-    showCaption: true
+    showCaption: false
     enableHover: true
     elementId: ''
     styles:
