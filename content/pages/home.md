@@ -4,7 +4,7 @@ title: Home1
 sections:
   - type: TextSection
     title: Divyarajsinh Jhala
-    subtitle: Canada
+    subtitle: ''
     text: >
       I collaborate with problem solvers, blending design disciplines with
       adaptability across roles. As an experience designer from India with a
