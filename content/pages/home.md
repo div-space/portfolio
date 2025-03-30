@@ -34,7 +34,7 @@ sections:
         caption: User-Centered Design & Prototyping
         elementId: ''
       - type: ImageBlock
-        url: /images/Adobe_Certified_Professional_Visual_Design_digital_badge 2.png
+        url: /images/Frame 3861.png
         altText: 'Adobe Visual Design '
         caption: Visual Communication & UI Design
         elementId: ''
