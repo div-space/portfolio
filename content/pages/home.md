@@ -97,7 +97,7 @@ sections:
     variant: variant-d
     elementId: ''
     showDate: false
-    showDescription: true
+    showDescription: false
     showFeaturedImage: true
     showReadMoreLink: true
     styles:
