@@ -11,7 +11,7 @@ sections:
       computer science background from GTU and LAU, I specialize in UX/UI
       design, product design, and user research - *'Bridging Tech, Design, and
       Human Behavior'*.
-    colors: colors-a
+    colors: colors-f
     variant: variant-a
     elementId: ''
     styles:
