@@ -176,6 +176,8 @@ sections:
         title: ''
         subtitle: Gujarat Technological University
         text: |
+          ### Gujarat Technological University
+
           B.E. Computer Engineering
 
           2015 - 2018
