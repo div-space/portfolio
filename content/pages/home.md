@@ -156,7 +156,7 @@ sections:
     title: Education
     items:
       - type: FeaturedItem
-        title: ''
+        title: Conestoga College
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
