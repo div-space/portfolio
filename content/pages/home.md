@@ -25,7 +25,7 @@ sections:
           - pr-4
         textAlign: left
   - type: MediaGallerySection
-    title: Gallery
+    title: ''
     subtitle: Badges
     images:
       - type: ImageBlock
