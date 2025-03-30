@@ -80,7 +80,7 @@ sections:
         borderRadius: none
         borderColor: border-(--theme-light)
   - type: LabelsSection
-    title: Skills
+    title: ''
     subtitle: The section subtitle
     items:
       - type: Label
