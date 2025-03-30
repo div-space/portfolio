@@ -27,12 +27,7 @@ sections:
   - type: MediaGallerySection
     title: ''
     subtitle: Badges
-    images:
-      - type: ImageBlock
-        url: /images/image (1) 1.png
-        altText: altText of the image
-        caption: User-Centered Design & Prototyping
-        elementId: ''
+    images: []
     colors: colors-f
     spacing: 16
     columns: 5
