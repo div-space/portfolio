@@ -26,7 +26,7 @@ sections:
         textAlign: left
   - type: MediaGallerySection
     title: ''
-    subtitle: ''
+    subtitle: Conestoga College
     images:
       - type: ImageBlock
         url: /images/Frame 3860.png
