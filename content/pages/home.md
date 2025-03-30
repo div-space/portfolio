@@ -45,7 +45,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/Frame 3862.png
-        altText: altText of the image
+        altText: IBM Design Thinking
         caption: Human-Centered Problem Solving
         elementId: ''
       - type: ImageBlock
