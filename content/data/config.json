@@ -10,13 +10,13 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "About",
-                "url": "/info"
+                "label": "Portfolio",
+                "url": "/projects"
             },
             {
                 "type": "Link",
-                "label": "Portfolio",
-                "url": "/projects"
+                "label": "About",
+                "url": "/info"
             },
             {
                 "type": "Link",
