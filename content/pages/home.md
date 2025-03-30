@@ -163,6 +163,8 @@ sections:
         subtitle: Conestoga College
         text: |
           P.G. Web Design & Development (graduated with distinction)
+
+          2020 - 2022
         actions: []
         elementId: ''
         styles:
