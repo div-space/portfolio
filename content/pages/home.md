@@ -51,6 +51,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: center
+        borderStyle: dashed
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
