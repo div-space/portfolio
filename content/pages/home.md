@@ -4,7 +4,7 @@ title: Home1
 sections:
   - type: TextSection
     title: Divyarajsinh Jhala
-    subtitle: 'Toronto, ON'
+    subtitle: 'Toronto, Canada'
     text: >
       I collaborate with problem solvers, utilizing various design disciplines
       with the ability to adapt to roles.
