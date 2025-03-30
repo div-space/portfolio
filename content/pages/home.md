@@ -51,7 +51,7 @@ sections:
       - type: ImageBlock
         url: /images/Frame 3863.png
         altText: 'Project Management '
-        caption: Caption of the image
+        caption: Agile & Cross-Functional Collaboration
         elementId: ''
     colors: colors-f
     spacing: 16
