@@ -80,7 +80,7 @@ sections:
         borderRadius: none
         borderColor: border-(--theme-light)
   - type: FeaturedProjectsSection
-    subtitle: 'Projects:'
+    subtitle: ''
     actions:
       - type: Link
         label: See all projects
