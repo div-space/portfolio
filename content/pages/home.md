@@ -26,7 +26,7 @@ sections:
         textAlign: left
   - type: MediaGallerySection
     title: Gallery
-    subtitle: This is the subtitle
+    subtitle: Badges
     images:
       - type: ImageBlock
         url: >-
