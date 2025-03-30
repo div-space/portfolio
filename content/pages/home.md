@@ -30,7 +30,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/Frame 3860.png
-        altText: google UX Design
+        altText: Google UX Design
         caption: User-Centered Design & Prototyping
         elementId: ''
       - type: ImageBlock
