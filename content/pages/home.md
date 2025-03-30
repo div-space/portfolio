@@ -96,7 +96,7 @@ sections:
     colors: colors-f
     variant: variant-a
     elementId: ''
-    showDate: false
+    showDate: true
     showDescription: false
     showFeaturedImage: true
     showReadMoreLink: true
