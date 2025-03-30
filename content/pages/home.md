@@ -40,7 +40,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/Frame 3865.png
-        altText: altText of the image
+        altText: Google Gen AI
         caption: AI-Driven Innovation & UX
         elementId: ''
       - type: ImageBlock
