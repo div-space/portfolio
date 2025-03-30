@@ -55,7 +55,7 @@ sections:
           - pb-12
           - pl-4
           - pr-4
-        textAlign: right
+        textAlign: center
         borderStyle: none
         borderWidth: 0
         borderRadius: none
