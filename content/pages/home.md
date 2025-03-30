@@ -36,7 +36,7 @@ sections:
       - type: ImageBlock
         url: /images/Adobe_Certified_Professional_Visual_Design_digital_badge 2.png
         altText: altText of the image
-        caption: Caption of the image
+        caption: Visual Communication & UI Design
         elementId: ''
     colors: colors-f
     spacing: 16
