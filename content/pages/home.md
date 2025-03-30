@@ -5,9 +5,9 @@ sections:
   - type: TextSection
     title: Divyarajsinh Jhala
     subtitle: Experience Design
-    text: >-
-      Start adding sections by clicking the + button on the page or through the
-      sidebar.
+    text: >
+      I collaborate with problem solvers, utilizing various design disciplines
+      with the ability to adapt to roles.
     colors: colors-f
     variant: variant-a
     elementId: ''
