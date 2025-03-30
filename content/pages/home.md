@@ -50,7 +50,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/Frame 3863.png
-        altText: altText of the image
+        altText: 'Project Management '
         caption: Caption of the image
         elementId: ''
     colors: colors-f
