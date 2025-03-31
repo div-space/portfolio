@@ -173,7 +173,7 @@ sections:
     colors: colors-f
     columns: 4
     spacingX: 16
-    spacingY: 16
+    spacingY: 7
     elementId: ''
     styles:
       self:
