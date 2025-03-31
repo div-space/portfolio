@@ -167,7 +167,15 @@ sections:
           P.G. Web Design & Development (graduated with distinction)
 
           2020 - 2022
-        actions: []
+        actions:
+          - type: Link
+            label: Learn more
+            altText: ''
+            url: '/https://www.conestogac.on.ca/'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
         elementId: ''
         styles:
           self:
