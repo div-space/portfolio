@@ -206,10 +206,13 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          ### [Tolani FG Polytechnic College](https://tolanipolytechnic.ac.in/)
+
+          Diploma for Computer Engineering
+
+          2011 - 2014
+
         elementId: ''
         styles:
           self:
