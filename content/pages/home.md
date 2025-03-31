@@ -196,6 +196,8 @@ sections:
           [Laurentian University](https://laurentian.ca/)
 
           B.E Computer Science, Study abroad
+
+          2017
         actions: []
         elementId: ''
         styles:
