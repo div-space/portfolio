@@ -6,10 +6,9 @@ sections:
     title: Divyarajsinh Jhala
     subtitle: ''
     text: >+
-      I collaborate with problem solvers, blending design disciplines with
-      adaptability across roles. As an experience designer from India with a
-      computer science background from GTU and LAU, I specialize in UX/UI
-      design, product design, and user research.
+      ## With a foundation in computer science, I specialize in UX/UI design,
+      product design, and user research. I collaborate with problem solvers,
+      blending design disciplines with adaptability across roles.
 
 
       > Bridging Tech, Design, and Human Behavior.
