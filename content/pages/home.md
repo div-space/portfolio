@@ -192,11 +192,10 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: |+
-          Laurentian University
+        text: |
+          [Laurentian University](https://laurentian.ca/)
 
-
-
+          B.E Computer Science, Study abroad
         actions: []
         elementId: ''
         styles:
