@@ -6,7 +6,7 @@ sections:
     title: Divyarajsinh Jhala
     subtitle: ''
     text: >+
-      ## With a foundation in computer science, I specialize in UX/UI design,
+      #### With a foundation in computer science, I specialize in UX/UI design,
       product design, and user research. I collaborate with problem solvers,
       blending design disciplines with adaptability across roles.
 
