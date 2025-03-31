@@ -179,7 +179,7 @@ sections:
       altText: Hero image
       caption: Caption of the image
       elementId: ''
-    colors: colors-d
+    colors: colors-f
     backgroundSize: full
     elementId: ''
     styles:
