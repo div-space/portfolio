@@ -162,7 +162,7 @@ sections:
         title: ''
         subtitle: ''
         text: |
-          ### Conestoga College
+          ### [Conestoga College](https://www.conestogac.on.ca/)
 
           P.G. Web Design & Development (graduated with distinction)
 
