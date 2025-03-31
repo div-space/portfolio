@@ -180,7 +180,7 @@ sections:
       caption: Caption of the image
       elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     elementId: ''
     styles:
       self:
