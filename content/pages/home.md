@@ -160,7 +160,6 @@ sections:
         iconPosition: right
         elementId: ''
     projects:
-      - content/pages/projects/project-one.md
       - content/pages/projects/about.md
     colors: colors-f
     variant: variant-d
