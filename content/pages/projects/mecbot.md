@@ -3,9 +3,7 @@ type: ProjectLayout
 title: MECBot Design System
 date: '2020-03-02'
 client: ''
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: UX Designer and a little Service Design
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
