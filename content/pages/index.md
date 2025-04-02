@@ -207,8 +207,11 @@ sections:
   - type: HeroSection
     title: ''
     subtitle: Divyarajsinh Pravinsinh Jhala
-    text: |
-      Born on April 17, 1996
+    text: |+
+      ### Divyarajsinh Pravinsinh Jhala
+
+      #### Born on April 17, 1996
+
     actions: []
     media:
       type: ImageBlock
