@@ -84,6 +84,9 @@ sections:
     title: ''
     subtitle: ''
     text: >
+      # About Me
+
+
       I grew up in the white desert of Kutch, surrounded by nature’s raw beauty
       and a rich tapestry of culture, craftsmanship, and storytelling. Design
       has always been a part of my life. As a kid, I’d tag along with my father
@@ -111,7 +114,7 @@ sections:
       systems, and meaningful experiences. I value stepping outside the screen,
       engaging with people, absorbing the world around me, and exploring new
       contexts. My curiosity and “listen to learn” mindset shape how I work and
-      collaborate. 
+      collaborate.
 
 
       When I’m not designing, you’ll find me reading, playing football, or
