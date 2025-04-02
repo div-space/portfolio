@@ -161,7 +161,6 @@ sections:
         elementId: ''
     projects:
       - content/pages/projects/project-one.md
-      - content/pages/projects/project-two.md
       - content/pages/projects/about.md
     colors: colors-f
     variant: variant-d
