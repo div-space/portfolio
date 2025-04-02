@@ -3,7 +3,9 @@ type: ProjectLayout
 title: Math tutoring with optimized learning management system
 date: '2021-07-01'
 client: PrepAnywhere
-description: 'Role: UX Designer / Product Designer / Interaction Designer'
+description: >-
+  Role: UX Designer / Product Designer / Interaction DesignerInformation
+  Architecture | User Research | Usability Testing | Service Design
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
