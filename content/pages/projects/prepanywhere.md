@@ -27,9 +27,21 @@ backgroundImage:
   opacity: 100
 bottomSections: []
 ---
-## About the Project
+## **About the Project**
 
 Title: PrepAnywhere (MGL)
 
 Extent of the project: About the Project
+
+## **The Design**
+
+
+
+## **The Process**
+
+A glimpse of the process
+
+
+
+
 
