@@ -302,43 +302,30 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
+        text: |
           ### PrepBox
-
 
           #### Lead of Product Design
 
-
           November 2024 - Present
-
 
           ### PrepAnywhere
 
-
           #### Product Designer (Product & Research)
-
 
           February 2022 - July 2023
 
-
           #### UI/UX Designer (Webapp & Marketing)
-
 
           July 2021 - February 2022
 
-
-          ### Dreampublicity
-
+          ### Dreampublicity (Manager)
 
           #### Service Designer
 
-
           December 2016 - July 2020
 
-
-          #### Graphic Designer (Billboard | Kiosk | Gantries | Unipole | BQS |
-          Digital Screens | Marketing Campaigns)
-
+          #### Graphic Designer 
 
           August 2014 - December 2016
         actions: []
