@@ -26,3 +26,5 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
+`<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/deck/iUSo2leaqcwuc8tT6m8k24/Mecbot-Design-System?node-id=1-352&viewport=-4960%2C504%2C0.19&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&embed-host=share" allowfullscreen></iframe>`
+
