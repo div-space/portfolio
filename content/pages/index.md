@@ -425,7 +425,7 @@ sections:
           - pr-4
         textAlign: left
   - type: LabelsSection
-    title: Skills
+    title: 'You can find me here:'
     subtitle: 'You can find me here:'
     items:
       - type: Label
