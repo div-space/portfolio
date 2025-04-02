@@ -39,13 +39,7 @@ When the world went remote, personalized student support became a real challenge
 
 ![](/images/flowimage.png)
 
-
-
-|   |   |
-| - | - |
-|   |   |
-
-
+![](/images/image%20425.png)
 
 ## **The Process**
 
