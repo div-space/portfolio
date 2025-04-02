@@ -437,7 +437,7 @@ sections:
       - type: Label
         label: Dribbble
         url: 'https://dribbble.com/Divyaraj'
-    colors: colors-f
+    colors: colors-c
     elementId: ''
     styles:
       self:
