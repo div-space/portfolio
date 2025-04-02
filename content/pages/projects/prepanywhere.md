@@ -21,7 +21,7 @@ colors: colors-a
 bottomSections: []
 backgroundImage:
   type: BackgroundImage
-  url: /images/Group 3841.png
+  url: /images/Banner--2.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
