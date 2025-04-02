@@ -29,6 +29,6 @@ bottomSections: []
 ---
 ## About the Project
 
-Title: About the Project
+Title: PrepAnywhere (MGL)
 
 Extent of the project: About the Project
