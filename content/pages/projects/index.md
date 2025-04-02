@@ -45,5 +45,30 @@ topSections:
           - pr-4
         flexDirection: row
         textAlign: left
-bottomSections: []
+bottomSections:
+  - type: LabelsSection
+    title: 'You can find me here:'
+    subtitle: ''
+    items:
+      - type: Label
+        label: Instagram
+        url: 'https://www.instagram.com/dv_design.space/'
+      - type: Label
+        label: Behance
+        url: 'https://www.behance.net/divyarajsinhjhala'
+      - type: Label
+        label: Dribbble
+        url: 'https://dribbble.com/Divyaraj'
+    colors: colors-c
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-20
+          - pb-20
+          - pl-4
+          - pr-4
+        textAlign: center
 ---
