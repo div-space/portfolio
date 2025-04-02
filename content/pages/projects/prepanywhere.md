@@ -33,6 +33,10 @@ bottomSections: []
 
 **Extent of the project:** About the Project
 
+During the social distancing era, remote learning widened the education gap, and schools struggled to provide personalized support at scale. Working with PrepAnywhere (MGL), we developed an Automated Tutor Service to help students learn at their own pace while aligning with Canadian and U.S. high school curricula.
+
+
+
 ## **The Design**
 
 ## **The Process**
