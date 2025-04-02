@@ -179,7 +179,7 @@ sections:
       - type: ImageBlock
         url: /images/Artboard 2.png
         altText: graduation
-        caption: Image two caption
+        caption: graduation
         elementId: ''
       - type: ImageBlock
         url: /images/gallery-3.jpg
