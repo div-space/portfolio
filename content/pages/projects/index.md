@@ -25,6 +25,15 @@ projectFeed:
         - pl-4
         - pr-4
         - pb-12
+  actions:
+    - type: Link
+      label: Learn more
+      altText: ''
+      url: /index1
+      showIcon: false
+      icon: arrowRight
+      iconPosition: right
+      elementId: ''
 topSections:
   - type: HeroSection
     title: Projects
