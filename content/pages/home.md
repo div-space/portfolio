@@ -246,19 +246,19 @@ sections:
 
           ### Gujarat Technological University
 
-          B.E. Computer Engineering
+          #### B.E. Computer Engineering
 
           2015 - 2018
 
           ### Laurentian University
 
-          B.E Computer Science, Study abroad
+          #### B.E Computer Science, Study abroad
 
           2017
 
           ### Tolani FG Polytechnic College
 
-          Diploma for Computer Engineering
+          #### Diploma for Computer Engineering
 
           2011 - 2014
         actions: []
