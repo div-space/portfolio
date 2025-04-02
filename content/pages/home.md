@@ -190,29 +190,6 @@ sections:
         textAlign: left
     text: |
       Born on April 17, 1996
-  - type: FeaturedProjectsSection
-    subtitle: ''
-    actions: []
-    projects:
-      - content/pages/projects/about.md
-    colors: colors-f
-    variant: variant-d
-    elementId: ''
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: false
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        textAlign: left
-    title: About me
   - type: MediaGallerySection
     title: Gallery
     subtitle: This is the subtitle
