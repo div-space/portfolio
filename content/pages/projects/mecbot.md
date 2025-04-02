@@ -27,3 +27,5 @@ backgroundImage:
   opacity: 100
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T-OFFeSizV4?si=WtgI2jhSgEryyJhe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+https://www.figma.com/deck/iUSo2leaqcwuc8tT6m8k24/Mecbot-Design-System?kind=deck&node-id=1-352&t=gY8GbahrVWzivfKZ-1
