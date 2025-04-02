@@ -27,10 +27,9 @@ backgroundImage:
   opacity: 100
 bottomSections: []
 ---
-## ![](https://youtu.be/iC3cNlXBVZk?si=s7Ub3fmTbimy2-Mq)About the Project
+## About the Project
 
 Title: PrepAnywhere (MGL)
 
 Extent of the project: About the Project
 
-<https://youtu.be/iC3cNlXBVZk?si=s7Ub3fmTbimy2-Mq>
