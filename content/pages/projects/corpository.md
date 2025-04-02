@@ -8,7 +8,7 @@ featuredImage:
   type: ImageBlock
   url: /images/Frame 24.png
   altText: corpository
-  caption: ''
+  caption: Corpository
   elementId: ''
 media:
   type: ImageBlock
