@@ -4,7 +4,7 @@ title: Projects
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/unnamed.png
+  url: /images/supriya-bhandari-0Uv_-KfgMwE-unsplash.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
