@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Math Learning Platform
-colors: colors-a
+colors: colors-b
 date: '2024-11-01'
 client: >-
   Visual Design | User Research | Information Architecture | Usability Testing |
