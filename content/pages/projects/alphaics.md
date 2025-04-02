@@ -30,5 +30,9 @@ AlphalCs was launching its main product offering RAPT™ (Real Al Processor) - A
 
 <div style="text-align: center">## Startup website design and brand alignment.</div>
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MPQPjDMFyVM?si=FnU-ThdLZ3ors0YK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## The Process
+
+![](https://mir-s3-cdn-cf.behance.net/project_modules/source/54f97978635027.5cab131359e6f.jpg)
+
