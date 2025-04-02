@@ -13,7 +13,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/Artboard-6.png
-  altText: Project image
+  altText: alphaics
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
