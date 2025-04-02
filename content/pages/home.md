@@ -40,14 +40,14 @@ sections:
         caption: Visual Communication & UI Design
         elementId: ''
       - type: ImageBlock
-        url: /images/Frame 3865.png
-        altText: Google Gen AI
-        caption: AI-Driven Innovation & UX
-        elementId: ''
-      - type: ImageBlock
         url: /images/Frame 3862.png
         altText: IBM Design Thinking
         caption: Human-Centered Problem Solving
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Frame 3865.png
+        altText: Google Gen AI
+        caption: AI-Driven Innovation & UX
         elementId: ''
       - type: ImageBlock
         url: /images/Frame 3863.png
