@@ -38,6 +38,7 @@ bottomSections: []
 ##### About the Project
 
 ```
-dsadasd
+About the Project
 ```
 
+`About the Project`
