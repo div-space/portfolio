@@ -217,7 +217,7 @@ sections:
       altText: Hero image
       caption: Caption of the image
       elementId: ''
-    colors: colors-f
+    colors: colors-c
     backgroundSize: full
     elementId: ''
     styles:
