@@ -7,7 +7,7 @@ description: 'Role: UX Design with a little Service Design'
 featuredImage:
   type: ImageBlock
   url: /images/image 433.png
-  altText: Project thumbnail image
+  altText: mecbot
   caption: ''
   elementId: ''
 media:
