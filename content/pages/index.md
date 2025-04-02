@@ -508,7 +508,7 @@ sections:
       - type: Label
         label: Microsoft Office
         url: ''
-    colors: colors-f
+    colors: colors-b
     elementId: ''
     styles:
       self:
