@@ -434,7 +434,7 @@ sections:
         text: ''
         actions:
           - type: Link
-            label: behance
+            label: Behance
             altText: ''
             url: 'https://www.behance.net/divyarajsinhjhala'
             showIcon: false
