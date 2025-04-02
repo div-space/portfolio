@@ -106,16 +106,18 @@ sections:
       communication (graphic design). Over time, through both study and
       practice, I realized that the most impactful design solutions stem from a
       holistic understanding of systems, people, and their relationships. What
-      excites me most about this discipline is its interdisciplinary nature—the
-      blend of strategy, creativity, and business thinking. I believe designers
-      today don’t just shape interfaces; we craft services, systems, and
-      meaningful experiences. I value stepping outside the screen, engaging with
-      people, absorbing the world around me, and exploring new contexts. My
-      curiosity and “listen to learn” mindset shape how I work and collaborate.
+      excites me most about this discipline is its interdisciplinary nature -
+      the blend of strategy, creativity, and business thinking.
 
+
+      I believe designers today don’t just shape interfaces; we craft services,
+      systems, and meaningful experiences. I value stepping outside the screen,
+      engaging with people, absorbing the world around me, and exploring new
+      contexts. My curiosity and “listen to learn” mindset shape how I work and
+      collaborate. 
 
       When I’m not designing, you’ll find me reading, playing football, or
-      sketching—activities that fuel my creativity and keep me grounded.
+      sketching.
     colors: colors-f
     variant: variant-b
     elementId: ''
