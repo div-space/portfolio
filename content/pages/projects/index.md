@@ -8,7 +8,7 @@ backgroundImage:
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 3
+  opacity: 7
 projectFeed:
   type: ProjectFeedSection
   colors: colors-f
