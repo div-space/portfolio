@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: Home old
 sections:
   - type: TextSection
     title: Divyarajsinh Jhala
