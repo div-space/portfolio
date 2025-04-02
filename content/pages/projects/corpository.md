@@ -7,7 +7,7 @@ description: 'Role: UX Design and Product Design '
 featuredImage:
   type: ImageBlock
   url: /images/Frame 24.png
-  altText: Project thumbnail image
+  altText: corpository
   caption: ''
   elementId: ''
 media:
