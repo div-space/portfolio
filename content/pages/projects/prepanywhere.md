@@ -29,19 +29,12 @@ bottomSections: []
 ---
 ## **About the Project**
 
-Title: PrepAnywhere (MGL)
+#### Title: PrepAnywhere (MGL)
 
-Extent of the project: About the Project
+#### Extent of the project: About the Project
 
 ## **The Design**
-
-
 
 ## **The Process**
 
 A glimpse of the process
-
-
-
-
-
