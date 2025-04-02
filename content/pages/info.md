@@ -17,17 +17,6 @@ sections:
       In need of a designer? Comments? Questions? I’d be happy to hear from you,
       whatever the reason. At the moment, I'm only available for work if the
       deadline is extremely flexible.
-
-
-      `<!-- Calendly inline widget begin -->`
-
-
-      `<div class="calendly-inline-widget"
-      data-url="https://calendly.com/divyarajjhala"
-      style="min-width:320px;height:700px;"></div> <script
-      type="text/javascript"
-      src="https://assets.calendly.com/assets/external/widget.js"
-      async></script> <!-- Calendly inline widget end -->`
     media:
       type: ImageBlock
       url: /images/IMG-20230605-WA0020~2.jpg
