@@ -7,7 +7,7 @@ description: 'Role: UX Designer / Product Designer / Interaction Designer'
 featuredImage:
   type: ImageBlock
   url: /images/Psd.png
-  altText: math tutoring
+  altText: PrepAnywhere
   caption: PrepAnywhere Math Tutoring
   elementId: ''
 media:
