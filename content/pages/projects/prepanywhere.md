@@ -21,7 +21,7 @@ colors: colors-a
 bottomSections: []
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/pricing bg.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
