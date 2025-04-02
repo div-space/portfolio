@@ -243,6 +243,14 @@ sections:
           P.G. Web Design & Development (graduated with distinction)
 
           2020 - 2022
+
+
+          \---
+
+          Gujarat Technological University
+          B.E. Computer Engineering
+
+          2015 - 2018
         actions: []
         elementId: ''
         styles:
