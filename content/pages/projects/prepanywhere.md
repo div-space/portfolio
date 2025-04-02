@@ -6,7 +6,7 @@ client: PrepAnywhere
 description: 'Role: UX Designer / Product Designer / Interaction Designer'
 featuredImage:
   type: ImageBlock
-  url: /images/Banner--2.jpg
+  url: /images/Psd.png
   altText: math tutoring
   caption: PrepAnywhere Math Tutoring
   elementId: ''
