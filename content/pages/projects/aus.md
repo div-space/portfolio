@@ -8,7 +8,7 @@ featuredImage:
   type: ImageBlock
   url: /images/screen 1 2.png
   altText: aus
-  caption: ''
+  caption: Aus
   elementId: ''
 media:
   type: ImageBlock
