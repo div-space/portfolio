@@ -1,43 +1,36 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/Frame 3849.png",
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
-        "isSticky": false,
-        "title": "Personal",
+        "isSticky": true,
+        "title": "<div>",
         "isTitleVisible": true,
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info"
-            },
-            {
-                "type": "Link",
-                "label": "Projects",
+                "label": "Portfolio",
                 "url": "/projects"
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
+                "label": "Got a Project?",
+                "altText": "calender",
+                "url": "https://calendly.com/divyarajjhala/sprint_meet",
+                "showIcon": true,
+                "icon": "chevronRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
-            },
-            {
-                "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
+                "altText": "linkedIn",
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/in/divyarajjhala/",
+                "icon": "linkedin"
             }
         ],
         "styles": {
@@ -51,43 +44,31 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info",
-                "altText": ""
+                "label": "Portfolio",
+                "url": "/projects",
+                "altText": "projects"
             },
             {
                 "type": "Link",
-                "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
+                "label": "Got a Project?",
+                "url": "https://calendly.com/divyarajjhala/sprint_meet",
                 "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
             }
         ],
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
+            "phoneNumber": "+1 437-661-0773",
             "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
+            "email": "divyaraj.jhala17@gmail.com",
             "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
+            "address": "15 Deerfield Rd, Scarborough, ON M1K 4X5",
             "addressAltText": "My address"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
+        "copyrightText": "©2014 - 25 Divyarajsinh Jhala\n",
         "styles": {
             "self": {
-                "width": "narrow",
+                "width": "wide",
                 "padding": [
                     "pt-16",
                     "pb-16",
@@ -96,5 +77,7 @@
                 ]
             }
         }
-    }
+    },
+    "titleSuffix": "",
+    "defaultSocialImage": "/images/Frame 3849.png"
 }
