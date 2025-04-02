@@ -12,7 +12,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/Banner--2.jpg
+  url: /images/Psd.png
   altText: Project image
   caption: Caption of the image
   elementId: ''
