@@ -14,7 +14,7 @@ media:
   type: ImageBlock
   url: /images/Frame 24.png
   altText: corpository
-  caption: Caption of the image
+  caption: Corpository
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
