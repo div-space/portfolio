@@ -15,11 +15,6 @@
             },
             {
                 "type": "Link",
-                "label": "About",
-                "url": "/info"
-            },
-            {
-                "type": "Link",
                 "label": "Got a Project?",
                 "altText": "calender",
                 "url": "https://calendly.com/divyarajjhala/sprint_meet",
