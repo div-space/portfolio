@@ -13,9 +13,10 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: |+
-      #
-
+    text: >
+      In need of a designer? Comments? Questions? I’d be happy to hear from you,
+      whatever the reason. At the moment, I'm only available for work if the
+      deadline is extremely flexible.
     media:
       type: ImageBlock
       url: /images/IMG-20230605-WA0020~2.jpg
