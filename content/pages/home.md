@@ -232,7 +232,7 @@ sections:
     text: |
       Born on April 17, 1996
   - type: FeaturedItemsSection
-    title: ''
+    title: Education
     items:
       - type: FeaturedItem
         title: ''
