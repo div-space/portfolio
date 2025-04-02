@@ -13,7 +13,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/Frame 24.png
-  altText: Project image
+  altText: corpository
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
