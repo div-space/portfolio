@@ -6,7 +6,7 @@
         "headerVariant": "variant-b",
         "isSticky": true,
         "title": "<div>",
-        "isTitleVisible": false,
+        "isTitleVisible": true,
         "primaryLinks": [
             {
                 "type": "Link",
