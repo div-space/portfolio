@@ -389,6 +389,86 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
+  - type: FeaturedItemsSection
+    title: Education
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: |
+          ### [Conestoga College](https://www.conestogac.on.ca/)
+
+          P.G. Web Design & Development (graduated with distinction)
+
+          2020 - 2022
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: >
+          ### [Gujarat Technological
+          University](https://www.gandhinagaruni.ac.in/)
+
+
+          B.E. Computer Engineering
+
+
+          2015 - 2018
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: |
+          ### [Laurentian University](https://laurentian.ca/)
+
+          B.E Computer Science, Study abroad
+
+          2017
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: |+
+          ### [Tolani FG Polytechnic College](https://tolanipolytechnic.ac.in/)
+
+          Diploma for Computer Engineering
+
+          2011 - 2014
+
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+    actions: []
+    colors: colors-f
+    columns: 1
+    spacingX: 16
+    spacingY: 16
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-36
+          - pl-4
+          - pr-4
+        textAlign: left
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
