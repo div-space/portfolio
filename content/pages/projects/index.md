@@ -31,7 +31,7 @@ topSections:
     title: Projects
     subtitle: ''
     actions: []
-    colors: colors-f
+    colors: colors-c
     backgroundSize: full
     elementId: ''
     styles:
