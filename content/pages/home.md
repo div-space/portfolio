@@ -240,9 +240,9 @@ sections:
         text: |+
           *   [Conestoga College](https://www.conestogac.on.ca/)
 
-              *   P.G. Web Design & Development (graduated with distinction)
+              *   <sub>P.G. Web Design & Development (graduated with distinction)</sub>
 
-              *   2020 - 2022
+              *   <sub>2020 - 2022</sub>
 
           *   [Conestoga College](https://www.conestogac.on.ca/)
 
