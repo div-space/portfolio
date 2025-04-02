@@ -271,20 +271,6 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: |
-          ### [Laurentian University](https://laurentian.ca/)
-
-          B.E Computer Science, Study abroad
-
-          2017
-        actions: []
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        title: ''
-        subtitle: ''
         text: |+
           ### [Tolani FG Polytechnic College](https://tolanipolytechnic.ac.in/)
 
