@@ -145,6 +145,10 @@ sections:
         elementId: ''
     projects:
       - content/pages/projects/prepanywhere.md
+      - content/pages/projects/mecbot.md
+      - content/pages/projects/mepreg.md
+      - content/pages/projects/aus.md
+      - content/pages/projects/alphaics.md
     colors: colors-f
     variant: variant-a
     elementId: ''
