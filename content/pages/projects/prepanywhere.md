@@ -27,3 +27,5 @@ backgroundImage:
   opacity: 100
 bottomSections: []
 ---
+# About the Project
+
