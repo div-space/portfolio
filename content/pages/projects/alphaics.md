@@ -8,7 +8,7 @@ featuredImage:
   type: ImageBlock
   url: /images/Artboard-6.png
   altText: alphaics
-  caption: ''
+  caption: alphaica
   elementId: ''
 media:
   type: ImageBlock
