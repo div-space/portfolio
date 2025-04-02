@@ -24,7 +24,7 @@ backgroundImage:
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 100
+  opacity: 44
 ---
 <div style="text-align: center">## Brand identity and an application design for Indian corporate insights</div>
 
