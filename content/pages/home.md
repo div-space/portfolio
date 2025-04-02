@@ -311,7 +311,7 @@ sections:
         textAlign: left
     subtitle: ''
   - type: FeaturedItemsSection
-    title: Education
+    title: Work
     subtitle: ''
     items:
       - type: FeaturedItem
