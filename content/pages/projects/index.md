@@ -47,7 +47,7 @@ topSections:
         textAlign: left
 bottomSections:
   - type: CtaSection
-    title: Check out more on My Behance
+    title: More on My Behance
     text: ''
     actions:
       - type: Button
