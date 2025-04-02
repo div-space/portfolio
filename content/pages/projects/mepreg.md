@@ -14,7 +14,7 @@ media:
   type: ImageBlock
   url: /images/PAK-app-screens.png
   altText: Mepreg
-  caption: Caption of the image
+  caption: Mepreg
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
