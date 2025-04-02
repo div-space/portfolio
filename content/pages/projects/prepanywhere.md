@@ -7,7 +7,7 @@ description: 'Role: UX Designer / Product Designer / Interaction Designer'
 featuredImage:
   type: ImageBlock
   url: /images/Banner--2.jpg
-  altText: altText of the image
+  altText: math tutoring
   caption: Caption of the image
   elementId: ''
 media:
