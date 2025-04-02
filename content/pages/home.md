@@ -164,7 +164,7 @@ sections:
     colors: colors-f
     variant: variant-d
     elementId: ''
-    showDate: false
+    showDate: true
     showDescription: true
     showFeaturedImage: true
     showReadMoreLink: true
