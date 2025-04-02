@@ -112,6 +112,16 @@ sections:
           - pb-8
           - pl-4
           - pr-4
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: 'https://calendly.com/divyaraj-jhala17'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
   - type: DividerSection
     styles:
       self:
