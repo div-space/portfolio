@@ -14,7 +14,7 @@ media:
   type: ImageBlock
   url: /images/image 433.png
   altText: Mecbot
-  caption: Caption of the image
+  caption: Mecbot
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
