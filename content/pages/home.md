@@ -164,7 +164,7 @@ sections:
         textAlign: center
     title: ''
   - type: MediaGallerySection
-    title: ''
+    title: 'I have worked for, with, or at...'
     subtitle: ''
     images:
       - type: ImageBlock
