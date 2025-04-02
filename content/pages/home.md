@@ -272,7 +272,7 @@ sections:
           self:
             textAlign: left
             padding:
-              - pt-6
+              - pt-0
       - type: FeaturedItem
         title: ''
         subtitle: ''
