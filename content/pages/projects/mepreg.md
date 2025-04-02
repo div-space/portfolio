@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: MePreg
+title: Project Alive and Kicking Web and App
 date: '2019-04-30'
 client: ''
 description: 'Role: UX Design and Interaction design'
