@@ -6,7 +6,7 @@ client: ''
 description: 'Role: UX Designer'
 featuredImage:
   type: ImageBlock
-  url: /images/Artboard 6.png
+  url: /images/Artboard-6.png
   altText: Project thumbnail image
   caption: ''
   elementId: ''
