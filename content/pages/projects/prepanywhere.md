@@ -8,7 +8,7 @@ featuredImage:
   type: ImageBlock
   url: /images/Banner--2.jpg
   altText: math tutoring
-  caption: Caption of the image
+  caption: PrepAnywhere Math Tutoring
   elementId: ''
 media:
   type: ImageBlock
