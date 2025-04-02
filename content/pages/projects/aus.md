@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Startup Product story
+title: Droan startup Product story
 date: '2019-02-02'
 client: ''
 description: 'Role: UX Design'
