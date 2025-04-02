@@ -180,6 +180,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
+    title: About me
   - type: MediaGallerySection
     title: Gallery
     subtitle: This is the subtitle
