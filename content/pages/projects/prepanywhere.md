@@ -27,17 +27,8 @@ backgroundImage:
   opacity: 100
 bottomSections: []
 ---
-```
-About the Project
-```
+## About the Project
 
-```
 Title: About the Project
-```
 
-```
 Extent of the project: About the Project
-```
-
-
-
