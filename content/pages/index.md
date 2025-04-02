@@ -501,7 +501,7 @@ sections:
     items:
       - type: Label
         label: 'WEB 1, 2, 3'
-        url: ''
+        url: 'https://www.instagram.com/dv_design.space/'
       - type: Label
         label: React
         url: ''
