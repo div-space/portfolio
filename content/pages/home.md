@@ -162,7 +162,7 @@ sections:
     showReadMoreLink: false
     styles:
       self:
-        height: auto
+        height: screen
         width: wide
         padding:
           - pt-24
