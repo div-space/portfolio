@@ -153,7 +153,8 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/IMG-20230605-WA0020~2.jpg
+      url: >-
+        /images/original_f718bcb1-f8db-423b-b468-a2052302c6c6_PXL_20230107_191203188.png
       altText: Hero image
       caption: Caption of the image
       elementId: ''
