@@ -13,7 +13,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/PAK-app-screens.png
-  altText: Project image
+  altText: Mepreg
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
