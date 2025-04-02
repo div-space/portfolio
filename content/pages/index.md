@@ -508,9 +508,6 @@ sections:
       - type: Label
         label: Microsoft Office
         url: ''
-      - type: Label
-        label: Next.js
-        url: ''
     colors: colors-f
     elementId: ''
     styles:
