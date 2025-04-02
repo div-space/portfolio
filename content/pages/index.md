@@ -59,7 +59,7 @@ sections:
         altText: 'Project Management '
         caption: Agile & Cross-Functional Collaboration
         elementId: ''
-    colors: colors-d
+    colors: colors-c
     spacing: 16
     columns: 6
     aspectRatio: auto
