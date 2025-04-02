@@ -41,6 +41,12 @@ When the world went remote, personalized student support became a real challenge
 
 
 
+|   |   |
+| - | - |
+|   |   |
+
+
+
 ## **The Process**
 
 A glimpse of the process
