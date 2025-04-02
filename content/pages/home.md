@@ -81,7 +81,7 @@ sections:
         borderRadius: none
         borderColor: border-(--theme-light)
   - type: TextSection
-    title: The Section Title
+    title: About Me
     subtitle: The section subtitle
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
