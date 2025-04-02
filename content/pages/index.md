@@ -466,11 +466,6 @@ sections:
         title: ''
         subtitle: ''
         text: ''
-        featuredImage:
-          type: ImageBlock
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
         elementId: ''
         styles:
           self:
