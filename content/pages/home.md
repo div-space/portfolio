@@ -350,7 +350,7 @@ sections:
     colors: colors-f
     columns: 1
     spacingX: 16
-    spacingY: 16
+    spacingY: 0
     elementId: ''
     styles:
       self:
