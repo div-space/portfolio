@@ -13,7 +13,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/screen 1 2.png
-  altText: Project image
+  altText: aus
   caption: Aus
   elementId: ''
 addTitleSuffix: true
