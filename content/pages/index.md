@@ -151,7 +151,7 @@ sections:
     variant: variant-a
     elementId: ''
     showDate: false
-    showDescription: true
+    showDescription: false
     showFeaturedImage: true
     showReadMoreLink: true
     styles:
