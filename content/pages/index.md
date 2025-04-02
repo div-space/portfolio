@@ -433,7 +433,15 @@ sections:
         subtitle: ''
         text: |
           Linkedin
-        actions: []
+        actions:
+          - type: Link
+            label: Learn more
+            altText: ''
+            url: 'https://www.behance.net/divyarajsinhjhala'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
         elementId: ''
         styles:
           self:
