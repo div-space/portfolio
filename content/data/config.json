@@ -3,7 +3,7 @@
     "favicon": "/images/Untitled (6) copy 2 1.png",
     "header": {
         "type": "Header",
-        "headerVariant": "variant-a",
+        "headerVariant": "variant-c",
         "isSticky": true,
         "title": "<div>",
         "isTitleVisible": true,
