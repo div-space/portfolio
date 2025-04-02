@@ -24,7 +24,7 @@ backgroundImage:
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 7
+  opacity: 41
 ---
 <div style="text-align: center">### A pregnancy tracker that provides health information and schedules appointments.</div>
 
