@@ -438,7 +438,7 @@ sections:
             label: behance
             altText: ''
             url: 'https://www.behance.net/divyarajsinhjhala'
-            showIcon: true
+            showIcon: false
             icon: arrowRight
             iconPosition: right
             elementId: ''
