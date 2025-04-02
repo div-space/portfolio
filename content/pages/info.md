@@ -139,7 +139,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [Book Me](https://calendly.com/divyaraj-jhala17)
   - type: DividerSection
     styles:
       self:
