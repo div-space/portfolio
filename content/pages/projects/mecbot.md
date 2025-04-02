@@ -13,7 +13,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/image 433.png
-  altText: Project image
+  altText: Mecbot
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
