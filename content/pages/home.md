@@ -302,43 +302,71 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: |-
-          ### PrepBox
+        text: >
+          ### [PrepBox](https://www.prepbox.io/)
+
 
           #### Lead of Product Design
 
+
           November 2024 - Present
 
-          ### PrepAnywhere
+
+          ### [PrepAnywhere](https://www.prepanywhere.com/)
+
 
           #### Product Designer (Product & Research)
 
+
           February 2022 - July 2023
+
 
           #### UI/UX Designer (Webapp & Marketing)
 
+
           July 2021 - February 2022
 
-          ### Dreampublicity (Manager)
+
+          ### [Dreampublicity
+          (Manager)](https://www.indiamart.com/bits-publicity/)
+
 
           #### Service Designer
 
+
           December 2016 - July 2020
+
 
           #### Graphic Designer
 
+
           August 2014 - December 2016
 
-          ### Digicorp
+
+          ### [Digicorp](https://www.digi-corp.com/)
+
+
           #### UI/UX Designer
+
+
           December 2018 - June 2020
 
-          ### Opal Infotech
+
+          ### [Opal Infotech](https://www.webmasterindia.com/)
+
+
           #### Web Designer
+
+
           July 2018 - October 2018
 
-          ### Business Analyst Intern
-          #### SLK Techlabs (Medical EHR)
+
+          ### [Business Analyst Intern](https://hops.healthcare/index.html)
+
+
+          #### SLK Techlabs (Medical EMR)
+
+
           April 2018 - June 2018
         actions: []
         elementId: ''
