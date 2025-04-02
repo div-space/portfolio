@@ -17,6 +17,16 @@
                 "type": "Link",
                 "label": "About",
                 "url": "/info"
+            },
+            {
+                "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "https://calendly.com/divyarajjhala/sprint_meet",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "socialLinks": [
