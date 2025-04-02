@@ -118,7 +118,7 @@ sections:
           - pr-4
     actions:
       - type: Button
-        label: Need a Designer?
+        label: Got a Project?
         altText: ''
         url: 'https://calendly.com/divyaraj-jhala17'
         showIcon: false
