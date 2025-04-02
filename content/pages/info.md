@@ -33,7 +33,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-        flexDirection: col
+        flexDirection: col-reverse
     type: HeroSection
   - type: LabelsSection
     colors: colors-b
