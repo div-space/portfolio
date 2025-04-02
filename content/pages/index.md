@@ -183,7 +183,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/Artboard 1.png
-        altText: Image three
+        altText: digicorp
         caption: Image three caption
         elementId: ''
       - type: ImageBlock
