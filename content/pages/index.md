@@ -149,6 +149,7 @@ sections:
       - content/pages/projects/mepreg.md
       - content/pages/projects/aus.md
       - content/pages/projects/alphaics.md
+      - content/pages/projects/corpository.md
     colors: colors-f
     variant: variant-a
     elementId: ''
