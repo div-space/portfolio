@@ -315,7 +315,7 @@ sections:
 
           Feb 2022 - July 2023
 
-          #### UI/UX Designer (Webapp & markating)
+          #### UI/UX Designer (Webapp & marketing)
 
           July 2021 - Feb 2022
         actions: []
