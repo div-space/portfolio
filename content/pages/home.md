@@ -318,11 +318,11 @@ sections:
         title: ''
         subtitle: ''
         text: |
-          ### [Conestoga College](https://www.conestogac.on.ca/)
+          ### PrepBox
 
-          P.G. Web Design & Development (graduated with distinction)
+          Lead of Product Design
 
-          2020 - 2022
+          November 2024 - Present
         actions: []
         elementId: ''
         styles:
