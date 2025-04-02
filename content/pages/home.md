@@ -237,28 +237,40 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: |
+        text: >
           ### [Conestoga College](https://www.conestogac.on.ca/)
+
 
           #### P.G. Web Design & Development (graduated with distinction)
 
+
           2020 - 2022
 
-          ### Gujarat Technological University
+
+          ### [Gujarat Technological
+          University](https://www.gandhinagaruni.ac.in/)
+
 
           #### B.E. Computer Engineering
 
+
           2015 - 2018
 
-          ### Laurentian University
+
+          ### [Laurentian University](https://laurentian.ca/)
+
 
           #### B.E Computer Science, Study abroad
 
+
           2017
 
-          ### Tolani FG Polytechnic College
+
+          ### [Tolani FG Polytechnic College](https://tolanipolytechnic.ac.in/)
+
 
           #### Diploma for Computer Engineering
+
 
           2011 - 2014
         actions: []
