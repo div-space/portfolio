@@ -27,19 +27,5 @@ backgroundImage:
   opacity: 100
 bottomSections: []
 ---
-# About the Project
-
 ## About the Project
-
-### About the Project
-
-#### About the Project
-
-##### About the Project
-
-\`\`
-
-| About the Project                                            | About the Project             |
-| ------------------------------------------------------------ | ----------------------------- |
-| ![](/images/Frame%203849.png) | ![](/images/Frame%203849.png) |
 
