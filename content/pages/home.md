@@ -397,7 +397,7 @@ sections:
         title: ''
         subtitle: ''
         text: |+
-          #### Hindi (and understand Gujarati), native proficiency
+          *   Hindi (and understand Gujarati), native proficiency
 
           #### English, full professional proficiency
 
