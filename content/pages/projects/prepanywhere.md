@@ -3,9 +3,7 @@ type: ProjectLayout
 title: AI math tutoring with optimized learning management system
 date: '2021-07-01'
 client: PrepAnywhere
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: 'Information Architecture | '
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
