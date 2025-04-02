@@ -187,7 +187,7 @@ sections:
         caption: digicorp
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-4.jpg
+        url: /images/Untitled-(4) (2).png
         altText: Image four
         caption: Image four caption
         elementId: ''
