@@ -189,7 +189,7 @@ sections:
       - type: ImageBlock
         url: /images/Untitled-(4) (2).png
         altText: systems design
-        caption: Image four caption
+        caption: systems deisgn
         elementId: ''
     colors: colors-f
     spacing: 16
