@@ -174,7 +174,7 @@ sections:
       - type: ImageBlock
         url: /images/Artboard 3s.png
         altText: prepanywhere
-        caption: Image one caption
+        caption: prepanywhere
         elementId: ''
       - type: ImageBlock
         url: /images/Artboard 2.png
