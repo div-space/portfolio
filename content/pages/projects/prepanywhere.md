@@ -14,7 +14,7 @@ media:
   type: ImageBlock
   url: /images/Psd.png
   altText: prepanywhere
-  caption: Caption of the image
+  caption: Prepanywhere
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
