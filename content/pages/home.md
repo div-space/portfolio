@@ -268,20 +268,6 @@ sections:
         styles:
           self:
             textAlign: left
-      - type: FeaturedItem
-        title: Work
-        subtitle: ''
-        text: |+
-          ### [Tolani FG Polytechnic College](https://tolanipolytechnic.ac.in/)
-
-          Diploma for Computer Engineering
-
-          2011 - 2014
-
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
     actions: []
     colors: colors-f
     columns: 1
