@@ -8,7 +8,7 @@ description: >-
   condimentum dignissim justo vel faucibus.
 featuredImage:
   type: ImageBlock
-  url: /images/Passport-size-51x511.png
+  url: /images/Untitled (6) copy 2 1.png
   altText: Project thumbnail image
   caption: ''
   elementId: ''
