@@ -19,6 +19,13 @@ media:
 addTitleSuffix: true
 colors: colors-a
 bottomSections: []
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bg2.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
 ## **About the Project**
 
