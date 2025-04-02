@@ -53,7 +53,7 @@ bottomSections:
       - type: Button
         label: Try it now
         altText: ''
-        url: /
+        url: 'https://www.behance.net/divyarajsinhjhala'
         showIcon: true
         icon: arrowRight
         iconPosition: right
