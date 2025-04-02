@@ -435,7 +435,7 @@ sections:
         label: Behance
         url: 'https://www.behance.net/divyarajsinhjhala'
       - type: Label
-        label: Microsoft Office
+        label: Dribbble
         url: 'https://dribbble.com/Divyaraj'
     colors: colors-c
     elementId: ''
