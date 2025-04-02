@@ -397,11 +397,11 @@ sections:
         title: ''
         subtitle: ''
         text: |+
-          ##### Hindi (and understand Gujarati), native proficiency
+          #### Hindi (and understand Gujarati), native proficiency
 
-          ##### English, full professional proficiency
+          #### English, full professional proficiency
 
-          ##### And a little bit of French
+          #### And a little bit of French
 
         actions: []
         elementId: ''
