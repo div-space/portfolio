@@ -160,6 +160,8 @@ sections:
           - pr-4
         flexDirection: col-reverse
         textAlign: left
+    text: |
+      Born on April 17, 1996
   - type: FeaturedProjectsSection
     subtitle: ''
     actions: []
