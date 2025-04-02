@@ -164,7 +164,7 @@ sections:
         textAlign: center
     title: ''
   - type: MediaGallerySection
-    title: Gallery
+    title: ''
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
