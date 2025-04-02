@@ -14,7 +14,7 @@ media:
   type: ImageBlock
   url: /images/screen 1 2.png
   altText: Project image
-  caption: Caption of the image
+  caption: Aus
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
