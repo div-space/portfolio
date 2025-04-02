@@ -436,7 +436,7 @@ sections:
         url: 'https://www.behance.net/divyarajsinhjhala'
       - type: Label
         label: Microsoft Office
-        url: ''
+        url: 'https://dribbble.com/Divyaraj'
     colors: colors-c
     elementId: ''
     styles:
