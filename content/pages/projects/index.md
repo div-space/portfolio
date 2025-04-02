@@ -51,7 +51,7 @@ bottomSections:
     text: ''
     actions:
       - type: Button
-        label: Try it now
+        label: Behance
         altText: ''
         url: 'https://www.behance.net/divyarajsinhjhala'
         showIcon: true
