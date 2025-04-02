@@ -426,7 +426,7 @@ sections:
         textAlign: left
   - type: LabelsSection
     title: 'You can find me here:'
-    subtitle: 'You can find me here:'
+    subtitle: ''
     items:
       - type: Label
         label: Instagram
