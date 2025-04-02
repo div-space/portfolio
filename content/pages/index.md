@@ -429,7 +429,7 @@ sections:
     subtitle: 'You can find me here:'
     items:
       - type: FeaturedItem
-        title: ''
+        title: Linkedin
         subtitle: ''
         text: |
           Linkedin
