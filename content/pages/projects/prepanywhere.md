@@ -13,7 +13,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/Psd.png
-  altText: Project image
+  altText: prepanywhere
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
