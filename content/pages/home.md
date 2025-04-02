@@ -130,7 +130,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/IMG-20230605-WA0020~2.jpg
+      url: /images/Passport-size-51x511.png
       altText: Hero image
       caption: Caption of the image
       elementId: ''
