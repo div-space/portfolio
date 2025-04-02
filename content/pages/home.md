@@ -153,7 +153,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/Untitled (6) copy 2 1.png
+      url: /images/IMG-20230605-WA0020~2.jpg
       altText: Hero image
       caption: Caption of the image
       elementId: ''
