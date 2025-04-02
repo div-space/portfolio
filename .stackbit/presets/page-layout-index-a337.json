@@ -1,0 +1,483 @@
+{
+    "model": "PageLayout",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "index",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "page"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "_filePath_slug": "home",
+                "title": "Home",
+                "sections": [
+                    {
+                        "$$type": "TextSection",
+                        "title": "Divyarajsinh Jhala",
+                        "subtitle": "",
+                        "text": "With a foundation in computer science, I specialize in UX/UI design, product design, and user research. I collaborate with problem solvers, blending design disciplines with adaptability across roles.\n\n> Bridging Tech, Design, and Human Behavior.\n",
+                        "colors": "colors-f",
+                        "variant": "variant-a",
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                                "height": "screen",
+                                "width": "wide",
+                                "padding": [
+                                    "pt-12",
+                                    "pb-36",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
+                                "textAlign": "left"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "MediaGallerySection",
+                        "title": "",
+                        "subtitle": "",
+                        "images": [
+                            {
+                                "$$type": "ImageBlock",
+                                "url": {
+                                    "$$ref": "stackbit_asset_id:static:public/images/Frame 3860.png",
+                                    "$$type": "__asset_model"
+                                },
+                                "altText": "Google UX Design",
+                                "caption": "User-Centered Design & Prototyping",
+                                "elementId": ""
+                            },
+                            {
+                                "$$type": "ImageBlock",
+                                "url": {
+                                    "$$ref": "stackbit_asset_id:static:public/images/Frame 3861.png",
+                                    "$$type": "__asset_model"
+                                },
+                                "altText": "Adobe Visual Design ",
+                                "caption": "Visual Communication & UI Design",
+                                "elementId": ""
+                            },
+                            {
+                                "$$type": "ImageBlock",
+                                "url": {
+                                    "$$ref": "stackbit_asset_id:static:public/images/Frame 3862.png",
+                                    "$$type": "__asset_model"
+                                },
+                                "altText": "IBM Design Thinking",
+                                "caption": "Human-Centered Problem Solving",
+                                "elementId": ""
+                            },
+                            {
+                                "$$type": "ImageBlock",
+                                "url": {
+                                    "$$ref": "stackbit_asset_id:static:public/images/Frame 3863.png",
+                                    "$$type": "__asset_model"
+                                },
+                                "altText": "Project Management ",
+                                "caption": "Agile & Cross-Functional Collaboration",
+                                "elementId": ""
+                            },
+                            {
+                                "$$type": "ImageBlock",
+                                "url": {
+                                    "$$ref": "stackbit_asset_id:static:public/images/Frame 3864.png",
+                                    "$$type": "__asset_model"
+                                },
+                                "altText": "AR",
+                                "caption": "AR UX & Interactive Experiences",
+                                "elementId": ""
+                            },
+                            {
+                                "$$type": "ImageBlock",
+                                "url": {
+                                    "$$ref": "stackbit_asset_id:static:public/images/Frame 3865.png",
+                                    "$$type": "__asset_model"
+                                },
+                                "altText": "Google Gen AI",
+                                "caption": "AI-Driven Innovation & UX",
+                                "elementId": ""
+                            }
+                        ],
+                        "colors": "colors-f",
+                        "spacing": 16,
+                        "columns": 6,
+                        "aspectRatio": "auto",
+                        "showCaption": true,
+                        "enableHover": true,
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                                "height": "auto",
+                                "width": "full",
+                                "padding": [
+                                    "pt-12",
+                                    "pb-12",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
+                                "textAlign": "left",
+                                "borderStyle": "none",
+                                "borderWidth": 0,
+                                "borderRadius": "none",
+                                "borderColor": "border-(--theme-light)"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "TextSection",
+                        "title": "",
+                        "subtitle": "",
+                        "text": "# About Me\n\nI grew up in the white desert of Kutch, surrounded by nature’s raw beauty and a rich tapestry of culture, craftsmanship, and storytelling. Design has always been a part of my life. As a kid, I’d tag along with my father to contract locations for his outdoor advertising business, spending time in printing rooms, exploring colors and visuals - I designed my first logo around age 12.\n\nAfter earning my Bachelor’s degree in Computer Science and Engineering, I gained hands-on experience in user experience design while simultaneously operating an outdoor advertising business. Acting as a service designer, I navigated real-world business challenges, bridging strategy with creative execution.\n\nBefore specializing in experience design, my roots were in visual communication (graphic design). Over time, through both study and practice, I realized that the most impactful design solutions stem from a holistic understanding of systems, people, and their relationships. What excites me most about this discipline is its interdisciplinary nature - the blend of strategy, creativity, and business thinking.\n\nI believe designers today don’t just shape interfaces; we craft services, systems, and meaningful experiences. I value stepping outside the screen, engaging with people, absorbing the world around me, and exploring new contexts. My curiosity and “listen to learn” mindset shape how I work and collaborate. \nWhen I’m not designing, you’ll find me reading, playing football, or sketching.\n",
+                        "colors": "colors-f",
+                        "variant": "variant-b",
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                                "height": "auto",
+                                "width": "wide",
+                                "padding": [
+                                    "pt-28",
+                                    "pb-28",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
+                                "textAlign": "left"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedProjectsSection",
+                        "title": "",
+                        "subtitle": "",
+                        "actions": [
+                            {
+                                "$$type": "Link",
+                                "label": "See all projects",
+                                "altText": "See all projects",
+                                "url": "/projects",
+                                "showIcon": false,
+                                "icon": "arrowRight",
+                                "iconPosition": "right",
+                                "elementId": ""
+                            }
+                        ],
+                        "projects": [
+                            {
+                                "$$ref": "content/pages/projects/project-two.md",
+                                "$$type": "ProjectLayout"
+                            },
+                            {
+                                "$$ref": "content/pages/projects/project-one.md",
+                                "$$type": "ProjectLayout"
+                            }
+                        ],
+                        "colors": "colors-f",
+                        "variant": "variant-a",
+                        "elementId": "",
+                        "showDate": false,
+                        "showDescription": false,
+                        "showFeaturedImage": true,
+                        "showReadMoreLink": true,
+                        "styles": {
+                            "self": {
+                                "height": "auto",
+                                "width": "wide",
+                                "padding": [
+                                    "pt-24",
+                                    "pb-24",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
+                                "textAlign": "center"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "MediaGallerySection",
+                        "title": "I have worked for, with, or at...",
+                        "subtitle": "",
+                        "images": [
+                            {
+                                "$$type": "ImageBlock",
+                                "url": {
+                                    "$$ref": "stackbit_asset_id:static:public/images/gallery-1.jpg",
+                                    "$$type": "__asset_model"
+                                },
+                                "altText": "Image one",
+                                "caption": "Image one caption",
+                                "elementId": ""
+                            },
+                            {
+                                "$$type": "ImageBlock",
+                                "url": {
+                                    "$$ref": "stackbit_asset_id:static:public/images/gallery-2.jpg",
+                                    "$$type": "__asset_model"
+                                },
+                                "altText": "Image two",
+                                "caption": "Image two caption",
+                                "elementId": ""
+                            },
+                            {
+                                "$$type": "ImageBlock",
+                                "url": {
+                                    "$$ref": "stackbit_asset_id:static:public/images/gallery-3.jpg",
+                                    "$$type": "__asset_model"
+                                },
+                                "altText": "Image three",
+                                "caption": "Image three caption",
+                                "elementId": ""
+                            },
+                            {
+                                "$$type": "ImageBlock",
+                                "url": {
+                                    "$$ref": "stackbit_asset_id:static:public/images/gallery-4.jpg",
+                                    "$$type": "__asset_model"
+                                },
+                                "altText": "Image four",
+                                "caption": "Image four caption",
+                                "elementId": ""
+                            }
+                        ],
+                        "colors": "colors-f",
+                        "spacing": 16,
+                        "columns": 4,
+                        "aspectRatio": "4:3",
+                        "showCaption": false,
+                        "enableHover": true,
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                                "height": "auto",
+                                "width": "full",
+                                "padding": [
+                                    "pt-12",
+                                    "pb-12",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
+                                "textAlign": "center"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "HeroSection",
+                        "title": "",
+                        "subtitle": "Divyarajsinh Pravinsinh Jhala",
+                        "text": "Born on April 17, 1996\n",
+                        "actions": [],
+                        "media": {
+                            "$$type": "ImageBlock",
+                            "url": {
+                                "$$ref": "stackbit_asset_id:static:public/images/original_f718bcb1-f8db-423b-b468-a2052302c6c6_PXL_20230107_191203188.png",
+                                "$$type": "__asset_model"
+                            },
+                            "altText": "Hero image",
+                            "caption": "Caption of the image",
+                            "elementId": ""
+                        },
+                        "colors": "colors-f",
+                        "backgroundSize": "full",
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                                "height": "auto",
+                                "width": "wide",
+                                "padding": [
+                                    "pt-36",
+                                    "pb-10",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
+                                "flexDirection": "col-reverse",
+                                "textAlign": "left"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItemsSection",
+                        "title": "Education",
+                        "subtitle": "",
+                        "items": [
+                            {
+                                "$$type": "FeaturedItem",
+                                "title": "",
+                                "subtitle": "",
+                                "text": "### [Conestoga College](https://www.conestogac.on.ca/)\n\n#### P.G. Web Design & Development (graduated with distinction)\n\n2020 - 2022\n\n### [Gujarat Technological University](https://www.gandhinagaruni.ac.in/)\n\n#### B.E. Computer Engineering\n\n2015 - 2018\n\n### [Laurentian University](https://laurentian.ca/)\n\n#### B.E Computer Science, Study abroad\n\n2017\n\n### [Tolani FG Polytechnic College](https://tolanipolytechnic.ac.in/)\n\n#### Diploma for Computer Engineering\n\n2011 - 2014\n",
+                                "featuredImage": null,
+                                "actions": [],
+                                "elementId": "",
+                                "styles": {
+                                    "self": {
+                                        "textAlign": "left"
+                                    }
+                                }
+                            }
+                        ],
+                        "actions": [],
+                        "colors": "colors-f",
+                        "columns": 1,
+                        "spacingX": 16,
+                        "spacingY": 16,
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                                "height": "auto",
+                                "width": "wide",
+                                "padding": [
+                                    "pt-10",
+                                    "pb-10",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
+                                "textAlign": "left"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItemsSection",
+                        "title": "Work",
+                        "subtitle": "",
+                        "items": [
+                            {
+                                "$$type": "FeaturedItem",
+                                "title": "",
+                                "subtitle": "",
+                                "text": "### [PrepBox](https://www.prepbox.io/)\n\n#### Lead of Product Design\n\nNovember 2024 - Present\n\n### [PrepAnywhere](https://www.prepanywhere.com/)\n\n#### Product Designer (Product & Research)\n\nFebruary 2022 - July 2023\n\n#### UI/UX Designer (Web App)\n\nJuly 2021 - February 2022\n\n### [Dreampublicity (Manager)](https://www.indiamart.com/bits-publicity/)\n\n#### Service Designer\n\nDecember 2016 - July 2020\n\n#### Graphic Designer\n\nAugust 2014 - December 2016\n\n### [Digicorp](https://www.digi-corp.com/)\n\n#### UI/UX Designer\n\nDecember 2018 - June 2020\n\n### [Opal Infotech](https://www.webmasterindia.com/)\n\n#### Web Designer\n\nJuly 2018 - October 2018\n\n### [Business Analyst Intern](https://hops.healthcare/index.html)\n\n#### SLK Techlabs (Medical EMR)\n\nApril 2018 - June 2018\n",
+                                "featuredImage": null,
+                                "actions": [],
+                                "elementId": "",
+                                "styles": {
+                                    "self": {
+                                        "textAlign": "left"
+                                    }
+                                }
+                            }
+                        ],
+                        "actions": [],
+                        "colors": "colors-f",
+                        "columns": 1,
+                        "spacingX": 16,
+                        "spacingY": 17,
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                                "height": "auto",
+                                "width": "wide",
+                                "padding": [
+                                    "pt-10",
+                                    "pb-10",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
+                                "textAlign": "left"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItemsSection",
+                        "title": "Language",
+                        "subtitle": "",
+                        "items": [
+                            {
+                                "$$type": "FeaturedItem",
+                                "title": "",
+                                "subtitle": "",
+                                "text": "#### Hindi (and understand Gujarati), native proficiency\n\n#### English, full professional proficiency\n\n#### And a little bit of French\n\n",
+                                "featuredImage": null,
+                                "actions": [],
+                                "elementId": "",
+                                "styles": {
+                                    "self": {
+                                        "textAlign": "left"
+                                    }
+                                }
+                            }
+                        ],
+                        "actions": [],
+                        "colors": "colors-f",
+                        "columns": 1,
+                        "spacingX": 16,
+                        "spacingY": 16,
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                                "height": "auto",
+                                "width": "wide",
+                                "padding": [
+                                    "pt-10",
+                                    "pb-10",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
+                                "textAlign": "left"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItemsSection",
+                        "title": "Value propositions",
+                        "subtitle": "You can find me here",
+                        "items": [
+                            {
+                                "$$type": "FeaturedItem",
+                                "title": "",
+                                "subtitle": "",
+                                "text": "Linkedin\n",
+                                "featuredImage": null,
+                                "actions": [],
+                                "elementId": "",
+                                "styles": {
+                                    "self": {
+                                        "textAlign": "left"
+                                    }
+                                }
+                            }
+                        ],
+                        "actions": [],
+                        "colors": "colors-a",
+                        "columns": 3,
+                        "spacingX": 16,
+                        "spacingY": 16,
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                                "height": "auto",
+                                "width": "wide",
+                                "padding": [
+                                    "pt-28",
+                                    "pb-36",
+                                    "pl-4",
+                                    "pr-4"
+                                ],
+                                "textAlign": "left"
+                            }
+                        }
+                    }
+                ],
+                "metaTitle": null,
+                "metaDescription": null,
+                "addTitleSuffix": true,
+                "socialImage": null,
+                "metaTags": [],
+                "colors": "colors-a",
+                "backgroundImage": {
+                    "$$type": "BackgroundImage",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/unnamed.png",
+                        "$$type": "__asset_model"
+                    },
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "backgroundRepeat": "no-repeat",
+                    "opacity": 100
+                }
+            }
+        }
+    ]
+}
