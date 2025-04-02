@@ -172,6 +172,11 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
+        url: /images/Untitled-(4) (2).png
+        altText: systems design
+        caption: systems deisgn
+        elementId: ''
+      - type: ImageBlock
         url: /images/Artboard 3s.png
         altText: prepanywhere
         caption: prepanywhere
@@ -185,11 +190,6 @@ sections:
         url: /images/Artboard 1.png
         altText: digicorp
         caption: digicorp
-        elementId: ''
-      - type: ImageBlock
-        url: /images/Untitled-(4) (2).png
-        altText: systems design
-        caption: systems deisgn
         elementId: ''
     colors: colors-f
     spacing: 16
