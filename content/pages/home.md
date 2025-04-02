@@ -327,7 +327,7 @@ sections:
 
           ####
 
-          Graphic Designer
+          #### Graphic Designer
 
           August 2014 - December 2016
         actions: []
