@@ -431,8 +431,7 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: |
-          Linkedin
+        text: ''
         actions:
           - type: Link
             label: behance
