@@ -173,7 +173,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/Artboard 3s.png
-        altText: Image one
+        altText: prepanywhere
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
