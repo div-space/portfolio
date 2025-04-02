@@ -178,7 +178,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/Artboard 2.png
-        altText: Image two
+        altText: graduation
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
