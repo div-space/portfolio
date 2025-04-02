@@ -321,7 +321,7 @@ sections:
           February 2022 - July 2023
 
 
-          #### UI/UX Designer (Web App & Marketing)
+          #### UI/UX Designer (Web App)
 
 
           July 2021 - February 2022
