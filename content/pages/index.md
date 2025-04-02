@@ -520,9 +520,6 @@ sections:
       - type: Label
         label: C++
         url: ''
-      - type: Label
-        label: Swift
-        url: ''
     colors: colors-f
     elementId: ''
     styles:
