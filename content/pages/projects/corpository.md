@@ -32,4 +32,11 @@ backgroundImage:
 
 ### The Process
 
-![](https://mir-s3-cdn-cf.behance.net/project_modules/source/71107e79003027.5cb5e600eac7b.jpg)![](https://mir-s3-cdn-cf.behance.net/project_modules/source/48b98079003027.5cb5da66b804c.jpg)
+![](/images/user_flow.jpg)![](/images/sketch_logo.jpg)![](/images/wireframe_v1.jpg)
+
+### The Design
+
+![](https://mir-s3-cdn-cf.behance.net/project_modules/source/f308f979003027.5cb5db4b7e9ef.gif)![](https://mir-s3-cdn-cf.behance.net/project_modules/source/71107e79003027.5cb5e600eac7b.jpg)![](https://mir-s3-cdn-cf.behance.net/project_modules/source/48b98079003027.5cb5da66b804c.jpg)
+
+<div style="text-align: center">### Branding Notes </div>
+
