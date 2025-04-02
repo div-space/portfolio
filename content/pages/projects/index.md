@@ -45,32 +45,5 @@ topSections:
           - pr-4
         flexDirection: row
         textAlign: left
-bottomSections:
-  - type: CtaSection
-    title: More on My Behance
-    text: ''
-    actions:
-      - type: Button
-        label: Behance
-        altText: ''
-        url: 'https://www.behance.net/divyarajsinhjhala'
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    colors: colors-c
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        flexDirection: col
-        textAlign: center
+bottomSections: []
 ---
