@@ -8,7 +8,7 @@ featuredImage:
   type: ImageBlock
   url: /images/image 433.png
   altText: mecbot
-  caption: ''
+  caption: Mecbot
   elementId: ''
 media:
   type: ImageBlock
