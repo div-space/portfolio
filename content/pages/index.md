@@ -188,7 +188,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/Untitled-(4) (2).png
-        altText: Image four
+        altText: systems design
         caption: Image four caption
         elementId: ''
     colors: colors-f
