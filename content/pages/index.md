@@ -206,7 +206,7 @@ sections:
         textAlign: center
   - type: HeroSection
     title: ''
-    subtitle: Divyarajsinh Pravinsinh Jhala
+    subtitle: ''
     text: |+
       ### Divyarajsinh Pravinsinh Jhala
 
