@@ -83,13 +83,39 @@ sections:
   - type: TextSection
     title: About Me
     subtitle: ''
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      I grew up in the white desert of Kutch, surrounded by nature’s raw beauty
+      and a rich tapestry of culture, craftsmanship, and storytelling. Design
+      has always been a part of my life. As a kid, I’d tag along with my father
+      to contract locations for his outdoor advertising business, spending time
+      in printing rooms, exploring colors and visuals - I designed my first logo
+      around age 12.
+
+
+      After earning my Bachelor’s degree in Computer Science and Engineering, I
+      gained hands-on experience in user experience design while simultaneously
+      operating an outdoor advertising business. Acting as a service designer, I
+      navigated real-world business challenges, bridging strategy with creative
+      execution.
+
+
+      Before specializing in experience design, my roots were in visual
+      communication (graphic design). Over time, through both study and
+      practice, I realized that the most impactful design solutions stem from a
+      holistic understanding of systems, people, and their relationships. What
+      excites me most about this discipline is its interdisciplinary nature—the
+      blend of strategy, creativity, and business thinking.
+
+
+      I believe designers today don’t just shape interfaces; we craft services,
+      systems, and meaningful experiences. I value stepping outside the screen,
+      engaging with people, absorbing the world around me, and exploring new
+      contexts. My curiosity and “listen to learn” mindset shape how I work and
+      collaborate. 
+
+
+      When I’m not designing, you’ll find me reading, playing football, or
+      sketching—activities that fuel my creativity and keep me grounded.
     colors: colors-f
     variant: variant-b
     elementId: ''
