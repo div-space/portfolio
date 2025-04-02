@@ -455,7 +455,7 @@ sections:
             textAlign: left
         actions:
           - type: Link
-            label: Learn more
+            label: Dribbble
             altText: ''
             url: 'https://dribbble.com/Divyaraj'
             showIcon: false
