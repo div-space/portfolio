@@ -309,7 +309,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-    subtitle: Education
+    subtitle: ''
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
