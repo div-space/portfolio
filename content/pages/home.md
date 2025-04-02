@@ -149,7 +149,7 @@ sections:
         flexDirection: row-reverse
         textAlign: left
   - type: FeaturedProjectsSection
-    subtitle: about me
+    subtitle: ''
     actions:
       - type: Link
         label: See all projects
