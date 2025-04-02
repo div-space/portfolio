@@ -237,10 +237,12 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: |
+        text: |+
+          ### [Conestoga College](https://www.conestogac.on.ca/)
 
+          P.G. Web Design & Development (graduated with distinction)
 
-
+          2020 - 2022
 
 
 
@@ -249,6 +251,15 @@ sections:
           P.G. Web Design & Development (graduated with distinction)
 
           2020 - 2022
+
+
+
+          ### [Conestoga College](https://www.conestogac.on.ca/)
+
+          P.G. Web Design & Development (graduated with distinction)
+
+          2020 - 2022
+
         actions: []
         elementId: ''
         styles:
