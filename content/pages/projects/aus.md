@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: AUS
+title: Startup Product story
 date: '2019-02-02'
 client: ''
 description: 'Role: UX Design'
