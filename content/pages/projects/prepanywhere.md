@@ -8,7 +8,7 @@ featuredImage:
   type: ImageBlock
   url: /images/Psd.png
   altText: PrepAnywhere
-  caption: PrepAnywhere Math Tutoring
+  caption: PrepAnywhere
   elementId: ''
 media:
   type: ImageBlock
