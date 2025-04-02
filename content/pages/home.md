@@ -137,7 +137,7 @@ sections:
         textAlign: left
   - type: HeroSection
     title: ''
-    subtitle: Divyarajsinh P Jhala
+    subtitle: Divyarajsinh Pravinsinh Jhala
     actions: []
     media:
       type: ImageBlock
