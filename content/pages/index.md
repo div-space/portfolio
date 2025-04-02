@@ -172,24 +172,24 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
-        altText: Image one
-        caption: Image one caption
+        url: /images/Untitled-(4) (2).png
+        altText: systems design
+        caption: systems deisgn
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-2.jpg
-        altText: Image two
-        caption: Image two caption
+        url: /images/Artboard 3s.png
+        altText: prepanywhere
+        caption: prepanywhere
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-3.jpg
-        altText: Image three
-        caption: Image three caption
+        url: /images/Artboard 2.png
+        altText: graduation
+        caption: graduation
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-4.jpg
-        altText: Image four
-        caption: Image four caption
+        url: /images/Artboard 1.png
+        altText: digicorp
+        caption: digicorp
         elementId: ''
     colors: colors-f
     spacing: 16
