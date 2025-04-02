@@ -480,7 +480,7 @@ sections:
             iconPosition: right
             elementId: ''
     actions: []
-    colors: colors-a
+    colors: colors-b
     columns: 3
     spacingX: 16
     spacingY: 16
