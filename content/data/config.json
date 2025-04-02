@@ -23,7 +23,7 @@
                 "label": "Got a Project?",
                 "altText": "calender",
                 "url": "https://calendly.com/divyarajjhala/sprint_meet",
-                "showIcon": false,
+                "showIcon": true,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
