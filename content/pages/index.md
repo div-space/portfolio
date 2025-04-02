@@ -481,7 +481,7 @@ sections:
             elementId: ''
     actions: []
     colors: colors-a
-    columns: 2
+    columns: 3
     spacingX: 16
     spacingY: 16
     elementId: ''
