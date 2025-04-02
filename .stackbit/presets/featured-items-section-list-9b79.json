@@ -1,0 +1,99 @@
+{
+    "model": "FeaturedItemsSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "list",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "list 1"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Education",
+                "subtitle": "",
+                "items": [
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "",
+                        "subtitle": "",
+                        "text": "### [Conestoga College](https://www.conestogac.on.ca/)\n\nP.G. Web Design & Development (graduated with distinction)\n\n2020 - 2022\n",
+                        "featuredImage": null,
+                        "actions": [],
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                                "textAlign": "left"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "",
+                        "subtitle": "",
+                        "text": "### [Gujarat Technological University](https://www.gandhinagaruni.ac.in/)\n\nB.E. Computer Engineering\n\n2015 - 2018\n",
+                        "featuredImage": null,
+                        "actions": [],
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                                "textAlign": "left"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "",
+                        "subtitle": "",
+                        "text": "### [Laurentian University](https://laurentian.ca/)\n\nB.E Computer Science, Study abroad\n\n2017\n",
+                        "featuredImage": null,
+                        "actions": [],
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                                "textAlign": "left"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "",
+                        "subtitle": "",
+                        "text": "### [Tolani FG Polytechnic College](https://tolanipolytechnic.ac.in/)\n\nDiploma for Computer Engineering\n\n2011 - 2014\n\n",
+                        "featuredImage": null,
+                        "actions": [],
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                                "textAlign": "left"
+                            }
+                        }
+                    }
+                ],
+                "actions": [],
+                "colors": "colors-f",
+                "columns": 1,
+                "spacingX": 16,
+                "spacingY": 16,
+                "elementId": "",
+                "styles": {
+                    "self": {
+                        "height": "auto",
+                        "width": "wide",
+                        "padding": [
+                            "pt-28",
+                            "pb-36",
+                            "pl-4",
+                            "pr-4"
+                        ],
+                        "textAlign": "left"
+                    }
+                }
+            },
+            "thumbnail": "images/featured-items-section-list-9b79.png"
+        }
+    ]
+}
