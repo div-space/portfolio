@@ -302,7 +302,7 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: |
+        text: |-
           ### PrepBox
 
           #### Lead of Product Design
@@ -325,9 +325,21 @@ sections:
 
           December 2016 - July 2020
 
-          #### Graphic Designer 
+          #### Graphic Designer
 
           August 2014 - December 2016
+
+          ### Digicorp
+          #### UI/UX Designer
+          December 2018 - June 2020
+
+          ### Opal Infotech
+          #### Web Designer
+          July 2018 - October 2018
+
+          ### Business Analyst Intern
+          #### SLK Techlabs (Medical EHR)
+          April 2018 - June 2018
         actions: []
         elementId: ''
         styles:
