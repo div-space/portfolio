@@ -14,7 +14,7 @@ media:
   type: ImageBlock
   url: /images/Artboard-6.png
   altText: alphaics
-  caption: Caption of the image
+  caption: alpha ics
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
