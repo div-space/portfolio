@@ -298,6 +298,18 @@ sections:
           Lead of Product Design
 
           November 2024 - Present
+
+
+
+          ### PrepAnywhere
+
+          Product Designer (Product & Research)
+
+          Feb 2022 - July 2023
+
+          UI/UX Designer (Webapp & markating)
+
+          July 2021 - Feb 2022
         actions: []
         elementId: ''
         styles:
