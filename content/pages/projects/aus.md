@@ -26,3 +26,8 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 44
 ---
+AUS is building 100% autonomous drones for enterprises in industries like Mining, Roads & Railways, Urban Development, Irrigation, Utilities (Power, Gas & Oil), etc., to perform topographical surveys and/or engineering inspections. First startup to get VC funding from the SIIC-IIT Kanpur ecosystem.
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITc0NNf-yfI?si=mFEJTjQcG8hzifiF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
