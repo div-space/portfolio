@@ -269,7 +269,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: ''
+        title: Work
         subtitle: ''
         text: |+
           ### [Tolani FG Polytechnic College](https://tolanipolytechnic.ac.in/)
