@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: AI math tutoring with optimized learning management system
+title: Math tutoring with optimized learning management system
 date: '2021-07-01'
 client: PrepAnywhere
 description: Information Architecture | User Research | Usability Testing | Service Design
