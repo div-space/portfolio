@@ -425,7 +425,7 @@ sections:
           - pr-4
         textAlign: left
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: ''
     subtitle: 'You can find me here:'
     items:
       - type: FeaturedItem
