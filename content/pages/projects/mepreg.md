@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: MePreg
 date: '2019-04-30'
-client: Awesome client
+client: ''
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
