@@ -45,11 +45,6 @@ sections:
         caption: Human-Centered Problem Solving
         elementId: ''
       - type: ImageBlock
-        url: /images/Frame 3865.png
-        altText: Google Gen AI
-        caption: AI-Driven Innovation & UX
-        elementId: ''
-      - type: ImageBlock
         url: /images/Frame 3863.png
         altText: 'Project Management '
         caption: Agile & Cross-Functional Collaboration
@@ -58,6 +53,11 @@ sections:
         url: /images/Frame 3864.png
         altText: AR
         caption: AR UX & Interactive Experiences
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Frame 3865.png
+        altText: Google Gen AI
+        caption: AI-Driven Innovation & UX
         elementId: ''
     colors: colors-f
     spacing: 16
