@@ -435,7 +435,7 @@ sections:
           Linkedin
         actions:
           - type: Link
-            label: Learn more
+            label: behance
             altText: ''
             url: 'https://www.behance.net/divyarajsinhjhala'
             showIcon: false
