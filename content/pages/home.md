@@ -169,7 +169,7 @@ sections:
           - pb-48
           - pl-4
           - pr-4
-        flexDirection: col
+        flexDirection: row
         textAlign: left
   - type: FeaturedProjectsSection
     subtitle: ''
