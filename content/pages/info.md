@@ -119,7 +119,7 @@ sections:
     actions:
       - type: Button
         label: Got a Project?
-        altText: ''
+        altText: contact
         url: 'https://calendly.com/divyaraj-jhala17'
         showIcon: false
         icon: arrowRight
