@@ -271,6 +271,8 @@ sections:
         styles:
           self:
             textAlign: left
+            padding:
+              - pt-3
       - type: FeaturedItem
         title: ''
         subtitle: ''
