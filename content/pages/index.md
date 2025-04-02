@@ -184,7 +184,7 @@ sections:
       - type: ImageBlock
         url: /images/Artboard 1.png
         altText: digicorp
-        caption: Image three caption
+        caption: digicorp
         elementId: ''
       - type: ImageBlock
         url: /images/gallery-4.jpg
