@@ -20,11 +20,11 @@ addTitleSuffix: true
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/34_1750.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 100
+  opacity: 44
 ---
 <div style="text-align: center">## Brand identity and an application design for Indian corporate insights</div>
 
