@@ -273,7 +273,7 @@ sections:
             textAlign: left
             padding:
               - pt-0
-            borderColor: border-(--theme-light)
+            borderColor: border-(--theme-dark)
       - type: FeaturedItem
         title: ''
         subtitle: ''
