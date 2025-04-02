@@ -407,23 +407,6 @@ sections:
         styles:
           self:
             textAlign: left
-      - type: FeaturedItem
-        title: ''
-        subtitle: ''
-        text: >
-          ### [Gujarat Technological
-          University](https://www.gandhinagaruni.ac.in/)
-
-
-          B.E. Computer Engineering
-
-
-          2015 - 2018
-        actions: []
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
     actions: []
     colors: colors-f
     columns: 1
