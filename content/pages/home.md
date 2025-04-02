@@ -238,23 +238,11 @@ sections:
         title: ''
         subtitle: ''
         text: |+
-          *   [Conestoga College](https://www.conestogac.on.ca/)
+          [Conestoga College](https://www.conestogac.on.ca/)
 
-              *   <sub>P.G. Web Design & Development (graduated with distinction)</sub>
+          P.G. Web Design & Development (graduated with distinction)
 
-              *   <sub>2020 - 2022</sub>
-
-          *   [Conestoga College](https://www.conestogac.on.ca/)
-
-              *   P.G. Web Design & Development (graduated with distinction)
-
-              *   2020 - 2022
-
-          *   [Conestoga College](https://www.conestogac.on.ca/)
-
-          *   P.G. Web Design & Development (graduated with distinction)
-
-          *   2020 - 2022
+          2020 - 2022
 
         actions: []
         elementId: ''
