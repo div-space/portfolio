@@ -37,4 +37,7 @@ bottomSections: []
 
 ##### About the Project
 
-![](/images/image%20\(4\).png)![](/images/original_f718bcb1-f8db-423b-b468-a2052302c6c6_PXL_20230107_191203188.jpg)
+```
+dsadasd
+```
+
