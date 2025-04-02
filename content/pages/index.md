@@ -432,7 +432,7 @@ sections:
         label: Instagram
         url: 'https://www.instagram.com/dv_design.space/'
       - type: Label
-        label: React
+        label: Behance
         url: 'https://www.behance.net/divyarajsinhjhala'
       - type: Label
         label: Microsoft Office
