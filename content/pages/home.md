@@ -305,19 +305,17 @@ sections:
         text: |
           ### PrepBox
 
-          Lead of Product Design
+          #### Lead of Product Design
 
           November 2024 - Present
 
-
-
           ### PrepAnywhere
 
-          Product Designer (Product & Research)
+          #### Product Designer (Product & Research)
 
           Feb 2022 - July 2023
 
-          UI/UX Designer (Webapp & markating)
+          #### UI/UX Designer (Webapp & markating)
 
           July 2021 - Feb 2022
         actions: []
