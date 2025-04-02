@@ -163,33 +163,6 @@ sections:
           - pr-4
         textAlign: center
     title: ''
-  - type: HeroSection
-    title: ''
-    subtitle: Divyarajsinh Pravinsinh Jhala
-    actions: []
-    media:
-      type: ImageBlock
-      url: >-
-        /images/original_f718bcb1-f8db-423b-b468-a2052302c6c6_PXL_20230107_191203188.png
-      altText: Hero image
-      caption: Caption of the image
-      elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        flexDirection: col-reverse
-        textAlign: left
-    text: |
-      Born on April 17, 1996
   - type: MediaGallerySection
     title: Gallery
     subtitle: This is the subtitle
@@ -231,6 +204,33 @@ sections:
           - pl-4
           - pr-4
         textAlign: center
+  - type: HeroSection
+    title: ''
+    subtitle: Divyarajsinh Pravinsinh Jhala
+    actions: []
+    media:
+      type: ImageBlock
+      url: >-
+        /images/original_f718bcb1-f8db-423b-b468-a2052302c6c6_PXL_20230107_191203188.png
+      altText: Hero image
+      caption: Caption of the image
+      elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-48
+          - pl-4
+          - pr-4
+        flexDirection: col-reverse
+        textAlign: left
+    text: |
+      Born on April 17, 1996
   - type: FeaturedItemsSection
     title: Education
     items:
