@@ -7,7 +7,7 @@ description: 'Role: UX Design and Interaction design'
 featuredImage:
   type: ImageBlock
   url: /images/PAK-app-screens.png
-  altText: Project thumbnail image
+  altText: mepreg
   caption: ''
   elementId: ''
 media:
