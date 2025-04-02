@@ -8,7 +8,7 @@ featuredImage:
   type: ImageBlock
   url: /images/PAK-app-screens.png
   altText: mepreg
-  caption: ''
+  caption: Mepreg
   elementId: ''
 media:
   type: ImageBlock
