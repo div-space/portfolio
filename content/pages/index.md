@@ -472,7 +472,7 @@ sections:
             textAlign: left
         actions:
           - type: Link
-            label: Learn more
+            label: Instagram
             altText: ''
             url: 'https://www.instagram.com/dv_design.space/'
             showIcon: false
