@@ -76,7 +76,10 @@ sections:
       - type: Label
         label: Service Design
   - type: FeaturedItemsSection
-    subtitle: 'You can find me here:'
+    subtitle: >-
+      In need of a designer? Comments? Questions? I’d be happy to hear from you,
+      whatever the reason. At the moment, I'm only available for work if the
+      deadline is extremely flexible.
     colors: colors-f
     items:
       - type: FeaturedItem
