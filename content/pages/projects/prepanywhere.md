@@ -39,8 +39,4 @@ When the world went remote, personalized student support became a real challenge
 
 ![](/images/flowimage.png)
 
-![](/images/image%20425.png)![](/images/image%20426.png)![](/images/image%20427.png)![](/images/image%20428.png)![](/images/Meet-Goov2.gif)![](/images/Group%203842.png)
-
-## **The Process**
-
-A glimpse of the process
+![](/images/image%20425.png)![](/images/image%20426.png)![](/images/image%20427.png)![](/images/image%20428.png)![](/images/Meet-Goov2.gif)![](/images/Group%203842.png)![](/images/Frame%203878.png)
