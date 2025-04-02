@@ -3,7 +3,7 @@ type: ProjectLayout
 title: AI math tutoring with optimized learning management system
 date: '2021-07-01'
 client: PrepAnywhere
-description: 'Information Architecture | User Research | '
+description: 'Information Architecture | User Research | Usability Testing | '
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
