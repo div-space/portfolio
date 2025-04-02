@@ -245,9 +245,9 @@ sections:
           2020 - 2022
 
 
-          \---
 
-          Gujarat Technological University
+          ### Gujarat Technological University
+
           B.E. Computer Engineering
 
           2015 - 2018
