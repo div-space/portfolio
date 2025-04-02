@@ -81,7 +81,7 @@ sections:
         borderRadius: none
         borderColor: border-(--theme-light)
   - type: TextSection
-    title: About Me
+    title: ''
     subtitle: ''
     text: >
       I grew up in the white desert of Kutch, surrounded by nature’s raw beauty
