@@ -302,7 +302,7 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: |+
+        text: |
           ### PrepBox
 
           #### Lead of Product Design
@@ -325,11 +325,11 @@ sections:
 
           December 2016 - July 2020
 
-          #### 
+          ####
+
           Graphic Designer
 
           August 2014 - December 2016
-
         actions: []
         elementId: ''
         styles:
