@@ -240,7 +240,7 @@ sections:
         text: |
           ### [Conestoga College](https://www.conestogac.on.ca/)
 
-          P.G. Web Design & Development (graduated with distinction)
+          #### P.G. Web Design & Development (graduated with distinction)
 
           2020 - 2022
 
@@ -255,8 +255,6 @@ sections:
           B.E Computer Science, Study abroad
 
           2017
-
-
 
           ### Tolani FG Polytechnic College
 
