@@ -7,7 +7,7 @@ description: 'Role: UX Design'
 featuredImage:
   type: ImageBlock
   url: /images/screen 1 2.png
-  altText: Project thumbnail image
+  altText: aus
   caption: ''
   elementId: ''
 media:
