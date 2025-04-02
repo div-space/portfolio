@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: MECBot Design System
 date: '2020-03-02'
-client: Awesome client
+client: ''
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
