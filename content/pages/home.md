@@ -250,13 +250,19 @@ sections:
 
           2015 - 2018
 
-
-
           ### Laurentian University
 
           B.E Computer Science, Study abroad
 
           2017
+
+
+
+          ### Tolani FG Polytechnic College
+
+          Diploma for Computer Engineering
+
+          2011 - 2014
         actions: []
         elementId: ''
         styles:
