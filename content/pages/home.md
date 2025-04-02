@@ -165,7 +165,7 @@ sections:
     title: ''
   - type: MediaGallerySection
     title: ''
-    subtitle: This is the subtitle
+    subtitle: 'I have worked for, with, or at...'
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
