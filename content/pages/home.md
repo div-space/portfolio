@@ -244,13 +244,19 @@ sections:
 
           2020 - 2022
 
-
-
           ### Gujarat Technological University
 
           B.E. Computer Engineering
 
           2015 - 2018
+
+
+
+          ### Laurentian University
+
+          B.E Computer Science, Study abroad
+
+          2017
         actions: []
         elementId: ''
         styles:
