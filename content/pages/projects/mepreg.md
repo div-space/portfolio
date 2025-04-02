@@ -6,7 +6,7 @@ client: ''
 description: 'Role: UX Design and Interaction design'
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/PAK-app-screens.png
   altText: Project thumbnail image
   caption: ''
   elementId: ''
