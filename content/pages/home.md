@@ -390,7 +390,7 @@ sections:
           - pr-4
         textAlign: left
   - type: FeaturedItemsSection
-    title: Education
+    title: Language
     subtitle: ''
     items:
       - type: FeaturedItem
