@@ -26,8 +26,7 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 44
 ---
-### Startup website design and brand alignment.
+AlphalCs was launching its main product offering RAPT™ (Real Al Processor) - A full stack Al solution that supports major Machine Learning Frameworks.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPQPjDMFyVM?si=2vmJBvGRXPkAsxie" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<div style="text-align: center">### Startup website design and brand alignment.<iframe width="560" height="315" src="https://www.youtube.com/embed/MPQPjDMFyVM?si=2vmJBvGRXPkAsxie" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
