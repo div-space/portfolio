@@ -24,7 +24,7 @@
                 "altText": "calender",
                 "url": "https://calendly.com/divyarajjhala/sprint_meet",
                 "showIcon": true,
-                "icon": "chevronRight",
+                "icon": "send",
                 "iconPosition": "right",
                 "elementId": ""
             }
