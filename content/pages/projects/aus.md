@@ -30,7 +30,8 @@ AUS is building 100% autonomous drones for enterprises in industries like Mining
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ITc0NNf-yfI?si=mFEJTjQcG8hzifiF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-![](/images/applications_usecase.gif)
+![](https://cdn.dribbble.com/userupload/24342377/file/original-e3c47c4168aed635d54bc1dc40b836de.jpg?resize=1504x1128\&vertical=center)![](/images/applications_usecase.gif)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MDKx7OVQE7A?si=iw_l5Qp9ZA06VCQ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+![](https://cdn.dribbble.com/userupload/24341539/file/original-e565a6c706502a0a50a0fd0a6e2c21d4.png?resize=1200x900\&vertical=center)
