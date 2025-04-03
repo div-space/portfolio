@@ -455,7 +455,7 @@ sections:
           applying to your job! Flawless communication, thoroughly understood
           the project, and far exceeded expectations. Superlative work. I look
           forward to working with Divyaraj again!"
-        name: Ellicott
+        name: Winston Butterfield
         title: Product Marketing Manager in USA
         image:
           type: ImageBlock
