@@ -456,7 +456,7 @@ sections:
           the project, and far exceeded expectations. Superlative work. I look
           forward to working with Divyaraj again!"
         name: Ellicott
-        title: Product Marketing Manager at USA
+        title: Product Marketing Manager in USA
         image:
           type: ImageBlock
           url: /images/Photo by Jakhongir Inoyatkhodjaev.png
