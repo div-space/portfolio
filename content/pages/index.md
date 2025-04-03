@@ -455,7 +455,7 @@ sections:
           applying to your job! Flawless communication, thoroughly understood
           the project, and far exceeded expectations. Superlative work. I look
           forward to working with Divyaraj again!"
-        name: Johnna Doe
+        name: Ellicott
         title: Product Marketing Manager at Acme
         image:
           type: ImageBlock
