@@ -60,7 +60,7 @@ sections:
         caption: Agile & Cross-Functional Collaboration
         elementId: ''
     colors: colors-f
-    spacing: 30
+    spacing: 50
     columns: 6
     aspectRatio: auto
     showCaption: true
