@@ -451,10 +451,10 @@ sections:
       - type: Testimonial
         quote: >-
           "Divyaraj is incredible. One of the most talented people I've worked
-          with on UpWork. Do not hesitate to hire if you have the privilege of
-          Divyaraj applying to your job! Flawless communication, thoroughly
-          understood the project, and far exceeded expectations. Superlative
-          work. I look forward to working with Divyaraj again!"
+          with. Do not hesitate to hire if you have the privilege of Divyaraj
+          applying to your job! Flawless communication, thoroughly understood
+          the project, and far exceeded expectations. Superlative work. I look
+          forward to working with Divyaraj again!"
         name: Johnna Doe
         title: Product Marketing Manager at Acme
         image:
