@@ -443,7 +443,7 @@ sections:
         title: UX Designer at University of Lincoln
         image:
           type: ImageBlock
-          url: /images/person-2.jpg
+          url: /images/1656913974229.jpeg
           altText: John Doe
           caption: Caption of the image
           elementId: ''
