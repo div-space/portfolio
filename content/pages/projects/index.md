@@ -1,7 +1,7 @@
 ---
 type: ProjectFeedLayout
 title: Projects
-colors: colors-c
+colors: colors-a
 backgroundImage:
   type: BackgroundImage
   url: /images/supriya-bhandari-0Uv_-KfgMwE-unsplash.jpg
