@@ -459,7 +459,7 @@ sections:
         title: 'Product Marketing Manager '
         image:
           type: ImageBlock
-          url: /images/person-3.jpg
+          url: /images/Photo by Jakhongir Inoyatkhodjaev.png
           altText: Johnna Doe
           caption: Caption of the image
           elementId: ''
