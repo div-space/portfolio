@@ -456,7 +456,7 @@ sections:
           the project, and far exceeded expectations. Superlative work. I look
           forward to working with Divyaraj again!"
         name: Ellicott
-        title: Product Marketing Manager at Acme
+        title: 'Product Marketing Manager '
         image:
           type: ImageBlock
           url: /images/person-3.jpg
