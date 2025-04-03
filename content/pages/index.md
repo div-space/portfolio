@@ -60,11 +60,11 @@ sections:
         caption: Agile & Cross-Functional Collaboration
         elementId: ''
     colors: colors-f
-    spacing: 30
+    spacing: 20
     columns: 6
     aspectRatio: auto
     showCaption: true
-    enableHover: true
+    enableHover: false
     elementId: ''
     styles:
       self:
@@ -224,7 +224,7 @@ sections:
       altText: Hero image
       caption: Caption of the image
       elementId: ''
-    colors: colors-c
+    colors: colors-f
     backgroundSize: full
     elementId: ''
     styles:
@@ -428,6 +428,51 @@ sections:
         padding:
           - pt-10
           - pb-20
+          - pl-4
+          - pr-4
+        textAlign: left
+  - type: TestimonialsSection
+    testimonials:
+      - type: Testimonial
+        quote: >-
+          "Divyaraj is a gifted artist who has a keen eye for detail and is
+          always in tune with the current times. Extremely adaptable, capable of
+          generating a broad variety of styles to meet the needs of any customer
+          or project."
+        name: Monika Jain
+        title: UX Designer at University of Lincoln
+        image:
+          type: ImageBlock
+          url: /images/1656913974229.jpeg
+          altText: John Doe
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+      - type: Testimonial
+        quote: >-
+          "Divyaraj is incredible. One of the most talented people I've worked
+          with. Flawless communication, thoroughly understood the project, and
+          far exceeded expectations. Superlative work. I look forward to working
+          with Divyaraj again!"
+        name: Winston Butterfield
+        title: Product Manager
+        image:
+          type: ImageBlock
+          url: /images/Photo by Jakhongir Inoyatkhodjaev.png
+          altText: Johnna Doe
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+    colors: colors-f
+    variant: variant-b
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-28
           - pl-4
           - pr-4
         textAlign: left
