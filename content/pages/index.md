@@ -439,7 +439,7 @@ sections:
           always in tune with the current times. Extremely adaptable, capable of
           generating a broad variety of styles to meet the needs of any customer
           or project."
-        name: John Doe
+        name: Monika Jain
         title: CEO at Parks
         image:
           type: ImageBlock
