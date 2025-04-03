@@ -456,7 +456,7 @@ sections:
           the project, and far exceeded expectations. Superlative work. I look
           forward to working with Divyaraj again!"
         name: Winston Butterfield
-        title: Product Marketing Manager in USA
+        title: Product Marketing Manager
         image:
           type: ImageBlock
           url: /images/Photo by Jakhongir Inoyatkhodjaev.png
