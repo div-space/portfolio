@@ -435,8 +435,19 @@ sections:
     testimonials:
       - type: Testimonial
         quote: >-
-          “Our website is the core of our sales strategy. Doris helped us
-          establish an easy-to-maintain Stackbit site with outstanding visuals!”
+          "Divyaraj is a gifted artist who has a keen eye for detail and is
+          always in tune with the current times. Extremely adaptable, capable of
+          generating a broad variety of styles to meet the needs of any customer
+          or project. It was a great fun to work alongside him, he took
+          responsibility for his job on a personal as well as professional
+          level. Divyaraj is the type of person who can fit right in with the
+          rest of the crew, but who can also hold his own and perform well under
+          duress when required. He is always interested in learning the latest
+          market developments and is particularly enthusiastic about mastering
+          novel software and hardware. His repertoire of abilities is extensive,
+          including not only UI design but also social media marketing, graphics
+          design, user experience design, interaction design, virtual reality
+          design, and augmented reality design."
         name: John Doe
         title: CEO at Parks
         image:
