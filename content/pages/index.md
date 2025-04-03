@@ -64,7 +64,7 @@ sections:
     columns: 6
     aspectRatio: auto
     showCaption: true
-    enableHover: true
+    enableHover: false
     elementId: ''
     styles:
       self:
