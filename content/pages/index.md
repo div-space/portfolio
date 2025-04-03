@@ -440,7 +440,7 @@ sections:
           generating a broad variety of styles to meet the needs of any customer
           or project."
         name: Monika Jain
-        title: CEO at Parks
+        title: UX Designer at University of Lincoln
         image:
           type: ImageBlock
           url: /images/person-2.jpg
