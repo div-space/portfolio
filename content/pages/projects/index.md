@@ -43,7 +43,7 @@ topSections:
           - pb-16
           - pl-4
           - pr-4
-        flexDirection: col
+        flexDirection: row
         textAlign: left
 bottomSections:
   - type: LabelsSection
