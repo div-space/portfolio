@@ -16,7 +16,7 @@ projectFeed:
   showDescription: false
   showReadMoreLink: true
   showFeaturedImage: true
-  variant: variant-c
+  variant: variant-b
   styles:
     self:
       width: narrow
