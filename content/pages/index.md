@@ -13,7 +13,7 @@ sections:
 
       > Bridging Tech, Design, and Human Behavior.
     colors: colors-f
-    variant: variant-b
+    variant: variant-a
     elementId: ''
     styles:
       self:
