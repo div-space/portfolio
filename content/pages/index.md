@@ -464,7 +464,7 @@ sections:
           elementId: ''
         elementId: ''
     colors: colors-f
-    variant: variant-b
+    variant: variant-a
     elementId: ''
     styles:
       self:
