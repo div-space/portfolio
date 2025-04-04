@@ -119,7 +119,7 @@ sections:
       When I’m not designing, you’ll find me reading, playing football, or
       sketching.
     colors: colors-f
-    variant: variant-a
+    variant: variant-b
     elementId: ''
     styles:
       self:
