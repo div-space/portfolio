@@ -13,7 +13,7 @@ projectFeed:
   type: ProjectFeedSection
   colors: colors-f
   showDate: false
-  showDescription: false
+  showDescription: true
   showReadMoreLink: true
   showFeaturedImage: true
   variant: variant-c
