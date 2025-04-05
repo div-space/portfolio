@@ -194,9 +194,7 @@ sections:
             textAlign: left
     actions:
       - type: Button
-        label: >-
-          We worked with them to figure out what their new Automated Tutor
-          Service could do.
+        label: Learn more
         altText: ''
         url: >-
           /We worked with them to figure out what their new Automated Tutor
