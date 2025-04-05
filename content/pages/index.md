@@ -223,9 +223,7 @@ sections:
         textAlign: center
     subtitle: Math tutoring with optimized learning management system
   - type: HeroSection
-    title: >-
-      I'm a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: ''
     subtitle: Math tutoring with optimized learning management system
     actions:
       - type: Button
