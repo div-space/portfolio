@@ -229,7 +229,7 @@ sections:
           - pb-36
           - pl-4
           - pr-4
-        textAlign: left
+        textAlign: center
     subtitle: Math tutoring with optimized learning management system
   - type: FeaturedProjectsSection
     title: ''
