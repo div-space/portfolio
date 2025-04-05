@@ -302,6 +302,16 @@ sections:
           label: Sign me up to receive updates
           width: full
           isRequired: 'false'
+        - type: SelectFormControl
+          name: subject
+          label: Subject
+          hideLabel: false
+          defaultValue: Please choose...
+          options:
+            - Logo design
+            - Other
+          width: 1/2
+          isRequired: false
       submitLabel: Send Message
       elementId: contact-form
       styles:
