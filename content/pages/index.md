@@ -168,12 +168,6 @@ sections:
         text: >
           We worked with them to figure out what their new Automated Tutor
           Service could do.
-        featuredImage:
-          type: ImageBlock
-          url: /images/Artboard 3s.png
-          altText: prepanywhere team
-          caption: team
-          elementId: ''
         elementId: ''
         styles:
           self:
