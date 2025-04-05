@@ -166,7 +166,7 @@ sections:
           - pb-24
           - pl-4
           - pr-4
-        textAlign: left
+        textAlign: center
   - type: MediaGallerySection
     title: 'I have worked for, with, or at...'
     subtitle: ''
