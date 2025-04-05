@@ -196,8 +196,7 @@ sections:
       - type: Button
         label: Learn more
         altText: ''
-        url: >-
-          https://preview--divyarajjhala-22573.stackbit.dev/projects/prepanywhere/
+        url: 'https://divyarajjhala.netlify.app/projects/prepanywhere/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
