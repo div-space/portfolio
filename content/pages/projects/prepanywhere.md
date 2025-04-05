@@ -6,7 +6,7 @@ client: PrepAnywhere
 description: 'Role: UX Designer / Product Designer / Interaction Designer'
 featuredImage:
   type: ImageBlock
-  url: /images/Psd.png
+  url: /images/prepanywhere 1.png
   altText: PrepAnywhere
   caption: PrepAnywhere
   elementId: ''
