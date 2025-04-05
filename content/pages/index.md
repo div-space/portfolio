@@ -491,11 +491,6 @@ sections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/gallery-4.jpg
-        altText: Image four
-        caption: Image four caption
-        elementId: ''
-      - type: ImageBlock
         url: /images/Frame prep.png
         altText: prepanywhere into
         caption: Math tutoring with optimized learning management system
