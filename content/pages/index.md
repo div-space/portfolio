@@ -151,7 +151,7 @@ sections:
       - content/pages/projects/aus.md
       - content/pages/projects/alphaics.md
     colors: colors-f
-    variant: variant-c
+    variant: variant-a
     elementId: ''
     showDate: false
     showDescription: true
