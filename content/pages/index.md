@@ -193,7 +193,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/1740856613766~2 (3).jpeg
-        altText: altText of the image
+        altText: ixdf
         caption: Caption of the image
         elementId: ''
     colors: colors-f
