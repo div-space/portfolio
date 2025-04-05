@@ -137,10 +137,7 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: Math tutoring with optimized learning management system
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         featuredImage:
           type: ImageBlock
           url: /images/bg1 1.png
