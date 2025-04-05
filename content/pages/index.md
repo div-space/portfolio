@@ -196,7 +196,7 @@ sections:
         altText: ixdf
         caption: 'IxDF '
         elementId: ''
-    colors: colors-f
+    colors: colors-c
     spacing: 16
     columns: 5
     aspectRatio: '4:3'
