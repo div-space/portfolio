@@ -509,7 +509,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/Group 3222.png
-        altText: altText of the image
+        altText: app
         caption: PrepBox
         elementId: ''
     colors: colors-c
