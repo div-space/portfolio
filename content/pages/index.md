@@ -254,7 +254,7 @@ sections:
           - pl-4
           - pr-4
         flexDirection: col-reverse
-        textAlign: left
+        textAlign: center
   - type: CtaSection
     title: Let's do this
     text: >-
