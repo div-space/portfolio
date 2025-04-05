@@ -253,7 +253,7 @@ sections:
           - pb-48
           - pl-4
           - pr-4
-        flexDirection: col-reverse
+        flexDirection: row-reverse
         textAlign: center
     text: >+
 
