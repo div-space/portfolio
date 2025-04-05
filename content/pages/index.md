@@ -157,8 +157,7 @@ sections:
           explicabo.
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/Frame 3878.png
           altText: Item image
           caption: Caption of the image
           elementId: ''
