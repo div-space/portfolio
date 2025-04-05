@@ -150,9 +150,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: ''
-        subtitle: >-
-          We worked with them to figure out what their new Automated Tutor
-          Service could do.
+        subtitle: ''
         text: ''
         featuredImage:
           type: ImageBlock
