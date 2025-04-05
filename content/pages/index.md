@@ -613,7 +613,7 @@ sections:
         textAlign: center
 addTitleSuffix: true
 metaTags: []
-colors: colors-a
+colors: colors-b
 backgroundImage:
   type: BackgroundImage
   url: /images/unnamed.png
