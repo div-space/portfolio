@@ -517,7 +517,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/Frame 3878.png
-        altText: altText of the image
+        altText: merch
         caption: >-
           We worked with them to figure out what their new Automated Tutor
           Service could do.
