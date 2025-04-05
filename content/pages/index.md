@@ -141,7 +141,7 @@ sections:
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
       inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
     colors: colors-f
-    variant: variant-a
+    variant: variant-b
     elementId: ''
     styles:
       self:
