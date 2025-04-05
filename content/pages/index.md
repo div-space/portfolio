@@ -183,7 +183,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/DSC_0136 (1).JPG
-        altText: graduation
+        altText: torontojs
         caption: graduation
         elementId: ''
       - type: ImageBlock
