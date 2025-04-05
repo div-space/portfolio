@@ -1,18 +1,18 @@
 ---
 type: ProjectLayout
-title: Math tutoring with optimized learning management system
+title: PrepAnywhere math learning platform
 date: '2021-07-01'
 client: PrepAnywhere
 description: 'Role: UX Designer / Product Designer / Interaction Designer'
 featuredImage:
   type: ImageBlock
-  url: /images/Psd.png
+  url: /images/prepanywhere 1.png
   altText: PrepAnywhere
   caption: PrepAnywhere
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/Psd.png
+  url: /images/prepanywhere 1.png
   altText: prepanywhere
   caption: Prepanywhere
   elementId: ''
@@ -37,7 +37,7 @@ When the world went remote, personalized student support became a real challenge
 
 ## **The Design**
 
-![](/images/flowimage.png)<sub>test</sub>
+![](/images/flowimage.png)
 
 ![](/images/image%20425.png)
 
@@ -54,3 +54,9 @@ When the world went remote, personalized student support became a real challenge
 ![](/images/Frame%203878.png)
 
 [Product Demo at National Council of Teachers of Mathematics (NCTM)](https://www.linkedin.com/embed/feed/update/urn:li:share:6911353804147896320?collapsed=1)
+
+![](/images/prepanywhere%203.png)
+
+![](/images/prepanywhere%204.png)
+
+![](/images/Psd.png)
