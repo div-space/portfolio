@@ -254,7 +254,7 @@ sections:
           - pl-4
           - pr-4
         flexDirection: row-reverse
-        textAlign: center
+        textAlign: left
     text: >+
 
 
