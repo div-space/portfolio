@@ -159,7 +159,7 @@ sections:
           type: ImageBlock
           url: /images/Frame 3878.png
           altText: Item image
-          caption: Caption of the image
+          caption: merch
           elementId: ''
         elementId: ''
         styles:
