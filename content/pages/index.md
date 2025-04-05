@@ -482,7 +482,7 @@ sections:
     items:
       - type: Label
         label: Instagram
-        url: '/https://www.instagram.com/dv_design.space/'
+        url: 'https://www.instagram.com/dv_design.space/'
       - type: Label
         label: Behance
         url: 'https://www.behance.net/divyarajsinhjhala'
