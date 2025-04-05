@@ -119,7 +119,7 @@ sections:
       When I’m not designing, you’ll find me reading, playing football, or
       sketching.
     colors: colors-f
-    variant: variant-b
+    variant: variant-a
     elementId: ''
     styles:
       self:
@@ -172,30 +172,35 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/Untitled-(4) (2).png
-        altText: systems design
-        caption: systems deisgn
-        elementId: ''
-      - type: ImageBlock
         url: /images/Artboard 3s.png
         altText: prepanywhere
         caption: prepanywhere
-        elementId: ''
-      - type: ImageBlock
-        url: /images/Artboard 2.png
-        altText: graduation
-        caption: graduation
         elementId: ''
       - type: ImageBlock
         url: /images/Artboard 1.png
         altText: digicorp
         caption: digicorp
         elementId: ''
+      - type: ImageBlock
+        url: /images/Untitled-(4) (2).png
+        altText: systems design
+        caption: systems deisgn
+        elementId: ''
+      - type: ImageBlock
+        url: /images/DSC_0136 (1).JPG
+        altText: torontojs
+        caption: Toronto JS
+        elementId: ''
+      - type: ImageBlock
+        url: /images/1740856613766~2 (3).jpeg
+        altText: ixdf
+        caption: 'IxDF '
+        elementId: ''
     colors: colors-f
     spacing: 16
-    columns: 4
+    columns: 5
     aspectRatio: '4:3'
-    showCaption: false
+    showCaption: true
     enableHover: true
     elementId: ''
     styles:
