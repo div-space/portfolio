@@ -132,7 +132,7 @@ sections:
           - pr-4
         textAlign: left
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: 'Featured work '
     items:
       - type: FeaturedItem
         title: ''
