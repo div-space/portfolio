@@ -148,6 +148,15 @@ sections:
         styles:
           self:
             textAlign: left
+        actions:
+          - type: Link
+            label: Learn more
+            altText: ''
+            url: '/https://divyarajjhala.netlify.app/projects/prepanywhere/'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
       - type: FeaturedItem
         title: ''
         subtitle: >-
