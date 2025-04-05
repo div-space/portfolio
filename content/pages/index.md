@@ -237,7 +237,7 @@ sections:
         altText: logo five
         caption: Caption of the image
         elementId: ''
-    colors: colors-a
+    colors: colors-c
     spacing: 16
     columns: 5
     aspectRatio: '16:9'
