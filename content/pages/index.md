@@ -222,7 +222,7 @@ sections:
     elementId: ''
     styles:
       self:
-        height: auto
+        height: screen
         width: wide
         padding:
           - pt-28
