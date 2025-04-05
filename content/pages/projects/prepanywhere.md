@@ -37,7 +37,7 @@ When the world went remote, personalized student support became a real challenge
 
 ## **The Design**
 
-![](/images/flowimage.png)
+![](/images/flowimage.png)<sub>test</sub>
 
 ![](/images/image%20425.png)
 
