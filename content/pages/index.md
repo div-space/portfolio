@@ -204,7 +204,7 @@ sections:
     colors: colors-b
     spacing: 16
     columns: 6
-    aspectRatio: auto
+    aspectRatio: '4:3'
     showCaption: true
     enableHover: true
     elementId: ''
