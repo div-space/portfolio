@@ -172,19 +172,14 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/Artboard 3s.png
-        altText: prepanywhere
-        caption: prepanywhere
-        elementId: ''
-      - type: ImageBlock
         url: /images/Artboard 1.png
         altText: digicorp
         caption: digicorp
         elementId: ''
       - type: ImageBlock
-        url: /images/Untitled-(4) (2).png
-        altText: systems design
-        caption: systems deisgn
+        url: /images/Artboard 3s.png
+        altText: prepanywhere
+        caption: prepanywhere
         elementId: ''
       - type: ImageBlock
         url: /images/DSC_0136 (1).JPG
@@ -192,14 +187,19 @@ sections:
         caption: Toronto JS
         elementId: ''
       - type: ImageBlock
+        url: /images/PXL_20230614_215328210~2 2.png
+        altText: aws
+        caption: AWS
+        elementId: ''
+      - type: ImageBlock
         url: /images/1740856613766~2 (3).jpeg
         altText: ixdf
         caption: 'IxDF '
         elementId: ''
       - type: ImageBlock
-        url: /images/PXL_20230614_215328210~2 2.png
-        altText: aws
-        caption: AWS
+        url: /images/Untitled-(4) (2).png
+        altText: systems design
+        caption: systems deisgn
         elementId: ''
     colors: colors-b
     spacing: 16
