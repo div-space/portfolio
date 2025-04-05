@@ -196,9 +196,14 @@ sections:
         altText: ixdf
         caption: 'IxDF '
         elementId: ''
+      - type: ImageBlock
+        url: /images/PXL_20230614_215328210~2 2.png
+        altText: aws
+        caption: AWS
+        elementId: ''
     colors: colors-b
     spacing: 16
-    columns: 5
+    columns: 6
     aspectRatio: '4:3'
     showCaption: true
     enableHover: true
@@ -206,7 +211,7 @@ sections:
     styles:
       self:
         height: auto
-        width: wide
+        width: full
         padding:
           - pt-12
           - pb-12
