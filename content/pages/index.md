@@ -158,7 +158,7 @@ sections:
         featuredImage:
           type: ImageBlock
           url: /images/Frame 3878.png
-          altText: Item image
+          altText: merch
           caption: merch
           elementId: ''
         elementId: ''
