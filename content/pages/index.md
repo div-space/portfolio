@@ -156,7 +156,7 @@ sections:
         text: ''
         featuredImage:
           type: ImageBlock
-          url: /images/Frame 3878.png
+          url: /images/prepanywhere 2.png
           altText: merch
           caption: merch
           elementId: ''
