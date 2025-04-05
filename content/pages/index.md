@@ -199,7 +199,7 @@ sections:
       - type: ImageBlock
         url: /images/PXL_20230614_215328210~2 2.png
         altText: aws
-        caption: Caption of the image
+        caption: AWS
         elementId: ''
     colors: colors-b
     spacing: 16
