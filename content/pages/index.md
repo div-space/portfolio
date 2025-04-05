@@ -182,7 +182,7 @@ sections:
         caption: prepanywhere
         elementId: ''
       - type: ImageBlock
-        url: /images/Artboard 2.png
+        url: /images/DSC_0136 (1).JPG
         altText: graduation
         caption: graduation
         elementId: ''
