@@ -256,14 +256,17 @@ sections:
         flexDirection: row-reverse
         textAlign: center
     text: >+
+      |
+      ![](/images/prepanywhere%201.png)<https://divyarajjhala.netlify.app/projects/prepanywhere/>
+      | ![](/images/prepanywhere%202.png) |
 
+      |
+      -------------------------------------------------------------------------------------------
+      | --------------------------------- |
 
-      | ![](/images/prepanywhere%201.png) | ![](/images/prepanywhere%202.png) |
-
-      | ---------------------------------------------------------------- |
-      ---------------------------------------------------------------- |
-
-      | ![](/images/prepanywhere%203.png) | ![](/images/prepanywhere%204.png) |
+      |
+      ![](/images/prepanywhere%203.png)                                                          
+      | ![](/images/prepanywhere%204.png) |
 
   - type: CtaSection
     title: Let's do this
