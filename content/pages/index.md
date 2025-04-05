@@ -131,42 +131,6 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-  - type: FeaturedProjectsSection
-    title: ''
-    subtitle: ''
-    actions:
-      - type: Link
-        label: See all projects
-        altText: See all projects
-        url: /projects
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
-    projects:
-      - content/pages/projects/prepanywhere.md
-      - content/pages/projects/corpository.md
-      - content/pages/projects/mecbot.md
-      - content/pages/projects/mepreg.md
-      - content/pages/projects/aus.md
-      - content/pages/projects/alphaics.md
-    colors: colors-f
-    variant: variant-a
-    elementId: ''
-    showDate: false
-    showDescription: false
-    showFeaturedImage: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        textAlign: center
   - type: MediaGallerySection
     title: Gallery
     subtitle: This is the subtitle
@@ -207,6 +171,42 @@ sections:
         padding:
           - pt-12
           - pb-12
+          - pl-4
+          - pr-4
+        textAlign: center
+  - type: FeaturedProjectsSection
+    title: ''
+    subtitle: ''
+    actions:
+      - type: Link
+        label: See all projects
+        altText: See all projects
+        url: /projects
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+    projects:
+      - content/pages/projects/prepanywhere.md
+      - content/pages/projects/corpository.md
+      - content/pages/projects/mecbot.md
+      - content/pages/projects/mepreg.md
+      - content/pages/projects/aus.md
+      - content/pages/projects/alphaics.md
+    colors: colors-f
+    variant: variant-a
+    elementId: ''
+    showDate: false
+    showDescription: false
+    showFeaturedImage: true
+    showReadMoreLink: true
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-24
+          - pb-24
           - pl-4
           - pr-4
         textAlign: center
