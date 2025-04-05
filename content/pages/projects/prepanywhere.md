@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Math tutoring with optimized learning management system
+title: PrepAnywhere math learning platform
 date: '2021-07-01'
 client: PrepAnywhere
 description: 'Role: UX Designer / Product Designer / Interaction Designer'
