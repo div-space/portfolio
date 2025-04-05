@@ -175,7 +175,7 @@ sections:
           type: ImageBlock
           url: /images/Artboard 3s.png
           altText: Item image
-          caption: Caption of the image
+          caption: team2021
           elementId: ''
         elementId: ''
         styles:
