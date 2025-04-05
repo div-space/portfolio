@@ -197,8 +197,7 @@ sections:
         label: Learn more
         altText: ''
         url: >-
-          /We worked with them to figure out what their new Automated Tutor
-          Service could do.
+          https://preview--divyarajjhala-22573.stackbit.dev/projects/prepanywhere/
         showIcon: false
         icon: arrowRight
         iconPosition: right
