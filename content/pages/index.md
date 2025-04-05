@@ -163,7 +163,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Item Title
+        title: ''
         subtitle: ''
         text: >
           We worked with them to figure out what their new Automated Tutor
