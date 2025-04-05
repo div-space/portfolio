@@ -505,7 +505,7 @@ sections:
       - type: ImageBlock
         url: /images/Artboard 3s.png
         altText: altText of the image
-        caption: Caption of the image
+        caption: Team
         elementId: ''
     colors: colors-c
     spacing: 16
