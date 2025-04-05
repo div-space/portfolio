@@ -178,15 +178,7 @@ sections:
         styles:
           self:
             textAlign: left
-    actions:
-      - type: Link
-        label: Learn more
-        altText: ''
-        url: /prepanywhere
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
+    actions: []
     colors: colors-f
     columns: 2
     spacingX: 16
