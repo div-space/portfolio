@@ -172,14 +172,14 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/Artboard 3s.png
-        altText: prepanywhere
-        caption: prepanywhere
-        elementId: ''
-      - type: ImageBlock
         url: /images/Artboard 1.png
         altText: digicorp
         caption: digicorp
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Artboard 3s.png
+        altText: prepanywhere
+        caption: prepanywhere
         elementId: ''
       - type: ImageBlock
         url: /images/DSC_0136 (1).JPG
