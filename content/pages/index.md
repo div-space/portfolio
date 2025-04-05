@@ -312,7 +312,7 @@ sections:
       - content/pages/projects/aus.md
       - content/pages/projects/alphaics.md
     colors: colors-f
-    variant: variant-d
+    variant: variant-c
     elementId: ''
     showDate: false
     showDescription: true
