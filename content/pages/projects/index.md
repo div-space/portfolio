@@ -44,7 +44,7 @@ topSections:
           - pl-4
           - pr-4
         flexDirection: row
-        textAlign: left
+        textAlign: center
 bottomSections:
   - type: LabelsSection
     title: 'You can find me here:'
