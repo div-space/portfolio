@@ -140,7 +140,7 @@ sections:
         text: ''
         featuredImage:
           type: ImageBlock
-          url: /images/bg1 1.png
+          url: /images/prepanywhere 1.png
           altText: prepanywhere
           caption: prepanywhere
           elementId: ''
