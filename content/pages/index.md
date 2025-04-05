@@ -157,7 +157,7 @@ sections:
         altText: app
         caption: 'PrepBox App '
         elementId: ''
-    colors: colors-c
+    colors: colors-f
     spacing: 16
     columns: 2
     aspectRatio: auto
