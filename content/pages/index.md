@@ -164,7 +164,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: ''
-        subtitle: PrepAnywhere (MGL)
+        subtitle: ''
         text: ''
         elementId: ''
         styles:
