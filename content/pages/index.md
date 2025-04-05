@@ -514,7 +514,7 @@ sections:
         url: /images/Frame prep.png
         altText: prepanywhere into
         caption: Math tutoring with optimized learning management system
-        elementId: ''
+        elementId: /prepanywhere
       - type: ImageBlock
         url: /images/Frame 3878.png
         altText: merch
