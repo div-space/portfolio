@@ -143,7 +143,7 @@ sections:
           url: /images/prepanywhere 1.png
           altText: prepanywhere
           caption: prepanywhere
-          elementId: 'https://divyarajjhala.netlify.app/projects/prepanywhere/'
+          elementId: ''
         elementId: ''
         styles:
           self:
