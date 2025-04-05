@@ -253,7 +253,7 @@ sections:
           - pb-48
           - pl-4
           - pr-4
-        flexDirection: row
+        flexDirection: col
         textAlign: left
   - type: CtaSection
     title: Let's do this
