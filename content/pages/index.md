@@ -184,7 +184,7 @@ sections:
       - type: ImageBlock
         url: /images/DSC_0136 (1).JPG
         altText: torontojs
-        caption: graduation
+        caption: Toronto JS
         elementId: ''
       - type: ImageBlock
         url: /images/Artboard 1.png
