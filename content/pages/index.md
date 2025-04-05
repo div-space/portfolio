@@ -526,7 +526,7 @@ sections:
     aspectRatio: auto
     showCaption: true
     enableHover: false
-    elementId: ''
+    elementId: \prepanywhere
     styles:
       self:
         height: auto
