@@ -151,53 +151,9 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
-          # We worked with them to figure out what their new Automated Tutor
-          Service could do.
-
-
-          ## We worked with them to figure out what their new Automated Tutor
-          Service could do.
-
-
-          ### We worked with them to figure out what their new Automated Tutor
-          Service could do.
-
-
-          #### We worked with them to figure out what their new Automated Tutor
-          Service could do.
-
-
-          ##### We worked with them to figure out what their new Automated Tutor
-          Service could do.
-
-
-          ###### We worked with them to figure out what their new Automated
-          Tutor Service could do.
-
-
-          We worked with them to figure out what their new Automated Tutor
-          Service could do.
-
-
-          <sup>We worked with them to figure out what their new Automated Tutor
-          Service could do.</sup>
-
-
-          <sub>We worked with them to figure out what their new Automated Tutor
-          Service could do.</sub>
-
-
-          <sub></sub>
-
-
-          ```
-
-          We worked with them to figure out what their new Automated Tutor
-          Service could do.
-
-          ```
-
+        text: >
+          `We worked with them to figure out what their new Automated Tutor
+          Service could do.`
         featuredImage:
           type: ImageBlock
           url: /images/Frame 3878.png
