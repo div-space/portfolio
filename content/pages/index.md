@@ -182,11 +182,6 @@ sections:
         caption: digicorp
         elementId: ''
       - type: ImageBlock
-        url: /images/Untitled-(4) (2).png
-        altText: systems design
-        caption: systems deisgn
-        elementId: ''
-      - type: ImageBlock
         url: /images/DSC_0136 (1).JPG
         altText: torontojs
         caption: Toronto JS
@@ -200,6 +195,11 @@ sections:
         url: /images/PXL_20230614_215328210~2 2.png
         altText: aws
         caption: AWS
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Untitled-(4) (2).png
+        altText: systems design
+        caption: systems deisgn
         elementId: ''
     colors: colors-b
     spacing: 16
