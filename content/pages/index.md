@@ -186,7 +186,7 @@ sections:
 
         featuredImage:
           type: ImageBlock
-          url: /images/image 435.png
+          url: /images/prepanywhere 4.png
           altText: Item image
           caption: Caption of the image
           elementId: ''
