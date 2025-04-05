@@ -231,44 +231,6 @@ sections:
           - pr-4
         textAlign: center
     subtitle: Math tutoring with optimized learning management system
-  - type: HeroSection
-    title: test
-    subtitle: Math tutoring with optimized learning management system
-    actions:
-      - type: Button
-        label: Hire me
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    media:
-      type: ImageBlock
-      url: /images/prepanywhere 1.png
-      altText: Hero image
-      caption: Caption of the image
-      elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: full
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        flexDirection: row
-        textAlign: center
-    text: |+
-      | ![](/images/prepanywhere%201.png) | ![](/images/prepanywhere%202.png) |
-      | --------------------------------- | --------------------------------- |
-      | ![](/images/prepanywhere%203.png) | ![](/images/prepanywhere%204.png) |
-
   - type: FeaturedProjectsSection
     title: ''
     subtitle: ''
