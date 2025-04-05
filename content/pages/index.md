@@ -162,15 +162,6 @@ sections:
         styles:
           self:
             textAlign: left
-      - type: FeaturedItem
-        title: ''
-        subtitle: ''
-        text: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-        actions: []
     actions:
       - type: Link
         label: Learn more
