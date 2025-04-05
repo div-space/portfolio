@@ -174,7 +174,7 @@ sections:
         featuredImage:
           type: ImageBlock
           url: /images/Artboard 3s.png
-          altText: Item image
+          altText: prepanywhere
           caption: team2021
           elementId: ''
         elementId: ''
