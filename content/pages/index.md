@@ -248,6 +248,49 @@ sections:
           - pr-4
         flexDirection: col-reverse
         textAlign: left
+  - type: MediaGallerySection
+    title: Gallery
+    subtitle: This is the subtitle
+    images:
+      - type: ImageBlock
+        url: /images/Frame prep.png
+        altText: prepanywhere into
+        caption: Math tutoring with optimized learning management system
+        elementId: /prepanywhere
+      - type: ImageBlock
+        url: /images/Frame 3878.png
+        altText: merch
+        caption: >-
+          We worked with them to figure out what their new Automated Tutor
+          Service could do.
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Artboard 3s.png
+        altText: prepanywhere group
+        caption: Team
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Group 3222.png
+        altText: app
+        caption: 'PrepBox App '
+        elementId: ''
+    colors: colors-c
+    spacing: 16
+    columns: 2
+    aspectRatio: auto
+    showCaption: true
+    enableHover: false
+    elementId: \prepanywhere
+    styles:
+      self:
+        height: auto
+        width: full
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        textAlign: center
   - type: FeaturedItemsSection
     title: Education
     subtitle: ''
@@ -312,49 +355,6 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-  - type: MediaGallerySection
-    title: Gallery
-    subtitle: This is the subtitle
-    images:
-      - type: ImageBlock
-        url: /images/Frame prep.png
-        altText: prepanywhere into
-        caption: Math tutoring with optimized learning management system
-        elementId: /prepanywhere
-      - type: ImageBlock
-        url: /images/Frame 3878.png
-        altText: merch
-        caption: >-
-          We worked with them to figure out what their new Automated Tutor
-          Service could do.
-        elementId: ''
-      - type: ImageBlock
-        url: /images/Artboard 3s.png
-        altText: prepanywhere group
-        caption: Team
-        elementId: ''
-      - type: ImageBlock
-        url: /images/Group 3222.png
-        altText: app
-        caption: 'PrepBox App '
-        elementId: ''
-    colors: colors-c
-    spacing: 16
-    columns: 2
-    aspectRatio: auto
-    showCaption: true
-    enableHover: false
-    elementId: \prepanywhere
-    styles:
-      self:
-        height: auto
-        width: full
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        textAlign: center
   - type: FeaturedItemsSection
     title: Work
     subtitle: ''
