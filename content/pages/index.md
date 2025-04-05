@@ -136,7 +136,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: ''
+        subtitle: Math tutoring with optimized learning management system
         text: ''
         featuredImage:
           type: ImageBlock
