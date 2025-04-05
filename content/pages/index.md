@@ -197,8 +197,7 @@ sections:
         caption: 'IxDF '
         elementId: ''
       - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
+        url: /images/PXL_20230614_215328210~2 2.png
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
