@@ -144,7 +144,7 @@ sections:
         featuredImage:
           type: ImageBlock
           url: /images/bg1 1.png
-          altText: Item image
+          altText: prepanywhere
           caption: prepanywhere
           elementId: ''
         elementId: ''
