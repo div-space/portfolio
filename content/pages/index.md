@@ -173,8 +173,7 @@ sections:
           explicabo.
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/Artboard 3s.png
           altText: Item image
           caption: Caption of the image
           elementId: ''
