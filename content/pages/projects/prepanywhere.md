@@ -12,7 +12,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/Psd.png
+  url: /images/prepanywhere 1.png
   altText: prepanywhere
   caption: Prepanywhere
   elementId: ''
