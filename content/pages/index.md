@@ -171,7 +171,7 @@ sections:
         featuredImage:
           type: ImageBlock
           url: /images/Artboard 3s.png
-          altText: Item image
+          altText: prepanywhere team
           caption: team
           elementId: ''
         elementId: ''
