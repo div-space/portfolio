@@ -194,7 +194,7 @@ sections:
       - type: ImageBlock
         url: /images/1740856613766~2 (3).jpeg
         altText: ixdf
-        caption: IxDF
+        caption: 'IxDF '
         elementId: ''
     colors: colors-f
     spacing: 16
