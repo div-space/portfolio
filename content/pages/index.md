@@ -611,7 +611,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: center
-addTitleSuffix: true
+addTitleSuffix: false
 metaTags: []
 colors: colors-a
 backgroundImage:
