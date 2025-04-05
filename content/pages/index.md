@@ -510,7 +510,7 @@ sections:
       - type: ImageBlock
         url: /images/Group 3222.png
         altText: altText of the image
-        caption: Caption of the image
+        caption: PrepBox
         elementId: ''
     colors: colors-c
     spacing: 16
