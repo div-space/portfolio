@@ -160,7 +160,7 @@ sections:
     colors: colors-f
     spacing: 16
     columns: 2
-    aspectRatio: auto
+    aspectRatio: '4:3'
     showCaption: true
     enableHover: false
     elementId: \prepanywhere
