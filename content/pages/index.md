@@ -174,6 +174,17 @@ sections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: >-
+          /We worked with them to figure out what their new Automated Tutor
+          Service could do.
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     colors: colors-f
     columns: 2
     spacingX: 16
