@@ -223,7 +223,7 @@ sections:
         textAlign: center
     subtitle: Math tutoring with optimized learning management system
   - type: HeroSection
-    title: ''
+    title: test
     subtitle: Math tutoring with optimized learning management system
     actions:
       - type: Button
