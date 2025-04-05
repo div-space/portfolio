@@ -37,7 +37,7 @@ topSections:
     styles:
       self:
         height: auto
-        width: wide
+        width: full
         padding:
           - pt-16
           - pb-16
