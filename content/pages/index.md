@@ -213,11 +213,6 @@ sections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
-        altText: logo one
-        caption: Caption of the image
-        elementId: ''
-      - type: ImageBlock
         url: >-
           https://assets.stackbit.com/components/images/default/default-image.png
         altText: altText of the image
