@@ -518,7 +518,9 @@ sections:
       - type: ImageBlock
         url: /images/Frame 3878.png
         altText: altText of the image
-        caption: Caption of the image
+        caption: >-
+          We worked with them to figure out what their new Automated Tutor
+          Service could do.
         elementId: ''
     colors: colors-c
     spacing: 16
