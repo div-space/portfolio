@@ -287,7 +287,7 @@ sections:
     showReadMoreLink: true
     styles:
       self:
-        height: screen
+        height: auto
         width: full
         padding:
           - pt-24
