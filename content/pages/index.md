@@ -170,7 +170,7 @@ sections:
         text: ''
         featuredImage:
           type: ImageBlock
-          url: /images/Artboard 3s.png
+          url: /images/prepanywhere 3.png
           altText: prepanywhere
           caption: team2021
           elementId: ''
