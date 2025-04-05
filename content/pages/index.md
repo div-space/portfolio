@@ -177,6 +177,11 @@ sections:
         caption: prepanywhere
         elementId: ''
       - type: ImageBlock
+        url: /images/Artboard 1.png
+        altText: digicorp
+        caption: digicorp
+        elementId: ''
+      - type: ImageBlock
         url: /images/Untitled-(4) (2).png
         altText: systems design
         caption: systems deisgn
@@ -185,11 +190,6 @@ sections:
         url: /images/DSC_0136 (1).JPG
         altText: torontojs
         caption: Toronto JS
-        elementId: ''
-      - type: ImageBlock
-        url: /images/Artboard 1.png
-        altText: digicorp
-        caption: digicorp
         elementId: ''
       - type: ImageBlock
         url: /images/1740856613766~2 (3).jpeg
