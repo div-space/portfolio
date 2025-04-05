@@ -406,41 +406,6 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-  - type: FeaturedItemsSection
-    title: Language
-    subtitle: ''
-    items:
-      - type: FeaturedItem
-        title: ''
-        subtitle: ''
-        text: |+
-          #### Hindi (and understand Gujarati), native proficiency
-
-          #### English, full professional proficiency
-
-          #### And a little bit of French
-
-        actions: []
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-    actions: []
-    colors: colors-f
-    columns: 1
-    spacingX: 16
-    spacingY: 16
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-10
-          - pb-20
-          - pl-4
-          - pr-4
-        textAlign: left
   - type: MediaGallerySection
     title: Gallery
     subtitle: This is the subtitle
@@ -484,6 +449,41 @@ sections:
           - pl-4
           - pr-4
         textAlign: center
+  - type: FeaturedItemsSection
+    title: Language
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: |+
+          #### Hindi (and understand Gujarati), native proficiency
+
+          #### English, full professional proficiency
+
+          #### And a little bit of French
+
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+    actions: []
+    colors: colors-f
+    columns: 1
+    spacingX: 16
+    spacingY: 16
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-10
+          - pb-20
+          - pl-4
+          - pr-4
+        textAlign: left
   - type: TestimonialsSection
     testimonials:
       - type: Testimonial
