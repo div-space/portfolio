@@ -151,7 +151,9 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: ''
+        text: >
+          We worked with them to figure out what their new Automated Tutor
+          Service could do.
         featuredImage:
           type: ImageBlock
           url: /images/Frame 3878.png
