@@ -172,16 +172,7 @@ sections:
         styles:
           self:
             textAlign: left
-        actions:
-          - type: Link
-            label: Learn more
-            altText: ''
-            url: >-
-              /https://preview--divyarajjhala-22573.stackbit.dev/projects/prepanywhere/
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            elementId: ''
+        actions: []
     actions:
       - type: Link
         label: Learn more
