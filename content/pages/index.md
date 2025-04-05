@@ -512,7 +512,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/Frame prep.png
-        altText: altText of the image
+        altText: prepimage1
         caption: Math tutoring with optimized learning management system
         elementId: ''
       - type: ImageBlock
