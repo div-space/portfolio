@@ -502,6 +502,12 @@ sections:
           We worked with them to figure out what their new Automated Tutor
           Service could do.
         elementId: ''
+      - type: ImageBlock
+        url: >-
+          https://assets.stackbit.com/components/images/default/default-image.png
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
     colors: colors-c
     spacing: 16
     columns: 2
