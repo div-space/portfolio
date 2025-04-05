@@ -180,6 +180,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
+    subtitle: Math tutoring with optimized learning management system
   - type: CtaSection
     title: Let's do this
     text: >-
