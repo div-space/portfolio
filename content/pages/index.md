@@ -233,7 +233,7 @@ sections:
           - pb-36
           - pl-4
           - pr-4
-        textAlign: center
+        textAlign: left
   - type: CtaSection
     title: Let's do this
     text: >-
